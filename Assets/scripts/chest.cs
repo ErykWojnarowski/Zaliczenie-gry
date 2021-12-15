@@ -12,7 +12,7 @@ public class chest : collactable
         {
             collected = true;
             GetComponent<SpriteRenderer>().sprite = chest_empty;
-            Debug.Log("Grant " + goldAmount + " gold!");
+            GameManager.instance.ShowText("+ " + goldAmount + " gold!",25,Color.yellow,transform.position, Vector3.down * 30, 1.5f);
         }
         
     }

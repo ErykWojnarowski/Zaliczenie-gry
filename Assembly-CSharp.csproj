@@ -59,10 +59,12 @@
     <Compile Include="Assets\scripts\camerControler.cs" />
     <Compile Include="Assets\scripts\chest.cs" />
     <Compile Include="Assets\scripts\portal.cs" />
+    <Compile Include="Assets\scripts\GameManager.cs" />
     <Compile Include="Assets\scripts\collactable.cs" />
     <Compile Include="Assets\scripts\collidable.cs" />
     <Compile Include="Assets\scripts\movement.cs" />
-    <Compile Include="Assets\scripts\GameManager.cs" />
+    <Compile Include="Assets\scripts\textManager.cs" />
+    <Compile Include="Assets\scripts\FloatingText.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
