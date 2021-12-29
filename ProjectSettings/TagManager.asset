@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fight
   layers:
   - Default
   - TransparentFX
@@ -11,15 +12,15 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - background
   - 
   - blocking
   - player
   - 
   - 
   - floor
+  - walls
   - background
-  - 
   - 
   - 
   - 
@@ -58,4 +59,7 @@ TagManager:
     locked: 0
   - name: interactable
     uniqueID: 1158312599
+    locked: 0
+  - name: weapon
+    uniqueID: 3337540579
     locked: 0

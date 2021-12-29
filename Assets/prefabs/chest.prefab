@@ -71,9 +71,9 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1158312599
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
-  m_Sprite: {fileID: 9057333083214411062, guid: cc18ef621ed07044b8a3ae16de4a1a79, type: 3}
+  m_Sprite: {fileID: -5634417806508610320, guid: 36b258416814ea941b2354e2377e496f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -136,5 +136,5 @@ MonoBehaviour:
     maxDepth: 0
     minNormalAngle: 0
     maxNormalAngle: 0
-  chest_empty: {fileID: 8258076477225970563, guid: cc18ef621ed07044b8a3ae16de4a1a79, type: 3}
+  Chest_empty: {fileID: -7155486402497724383, guid: 36b258416814ea941b2354e2377e496f, type: 3}
   goldAmount: 5
