@@ -10,13 +10,14 @@ public class weapon : collidable
     public int weaponLevel = 0;
     private SpriteRenderer spriteRenderer;
 
-    private float cooldown = 1f;
+    private Animator anim;
+    private float cooldown = 0.5f;
     private float lastattack;
     protected override void Start()
     {
         base.Start();
         spriteRenderer = GetComponent<SpriteRenderer>();
-
+        anim = GetComponent<Animator>();
     }
     protected override void Update()
     {
@@ -51,6 +52,6 @@ public class weapon : collidable
 
     private void Attack()
     {
-        Debug.Log("Attack");
+        anim.SetTrigger("hit");
     }
 }

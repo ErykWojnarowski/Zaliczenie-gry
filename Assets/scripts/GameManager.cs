@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
     public List<int> weaponPrices;
     public List<int> xpTable;
 
-    public movement player;
+    public player player;
     public textManager TextManager;
 
 
