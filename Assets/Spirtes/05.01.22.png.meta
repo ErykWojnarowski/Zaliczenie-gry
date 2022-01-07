@@ -1,0 +1,7524 @@
+fileFormatVersion: 2
+guid: 4094042808a353e48ac90a45e58e4b57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -917760737959353963
+    second: boss_big
+  - first:
+      213: -5547784219917352333
+    second: golem_mechanicus
+  - first:
+      213: 8499651234300282302
+    second: golem_cave
+  - first:
+      213: 6082785165777656809
+    second: golem_mesh
+  - first:
+      213: -2764140815967837033
+    second: golem_ice
+  - first:
+      213: 5378705539645534197
+    second: Potion_health
+  - first:
+      213: 7769281480792011367
+    second: enemy_ice_snowman
+  - first:
+      213: -188566180885510846
+    second: enemy_ice_tree
+  - first:
+      213: 6055774142018315960
+    second: enemy_ice_fox
+  - first:
+      213: 3884466526108912641
+    second: enemy_marble_robot_1
+  - first:
+      213: -109627808097199745
+    second: enemy_marble_robot_2
+  - first:
+      213: -140656883644048682
+    second: enemy_marble_robot_3
+  - first:
+      213: 8622541104721664656
+    second: enemy_marble_robot_4
+  - first:
+      213: 280120589323871576
+    second: enemy_cave_skeleton
+  - first:
+      213: 250637965069938556
+    second: enemy_cave_wolf
+  - first:
+      213: -8916739719617661475
+    second: enemy_cave_rat
+  - first:
+      213: -5194715926371084193
+    second: enemy_mesh_mole
+  - first:
+      213: -6659059994505123633
+    second: enemy_mesh_spider
+  - first:
+      213: -4050210089115706068
+    second: enemy_mesh_ghost
+  - first:
+      213: -5002887708621548380
+    second: enemy_final_gladiator_1
+  - first:
+      213: -1930231257945470651
+    second: enemy_final_gladiator_2
+  - first:
+      213: -8489443823123125571
+    second: enemy_final_gladiator_3
+  - first:
+      213: 5624008438284476561
+    second: enemy_final_gladiator_4
+  - first:
+      213: 2288388630344084215
+    second: enemy_final_gladiator_5
+  - first:
+      213: 5912926123014730795
+    second: boss_small
+  - first:
+      213: 439163735832111272
+    second: chest_snow_full
+  - first:
+      213: 293808132645125232
+    second: chest_snow_empty
+  - first:
+      213: 7420648770948140519
+    second: chest_snow_closed
+  - first:
+      213: 5669872493023404292
+    second: wall_snow_up_1
+  - first:
+      213: 2986878219183483906
+    second: wall_snow_up_2
+  - first:
+      213: -6304510556188082245
+    second: wall_snow_up_3
+  - first:
+      213: 3784674890740631731
+    second: wall_snow_up_4
+  - first:
+      213: 5896791752908522846
+    second: wall_snow_up_5
+  - first:
+      213: -6939391475896960697
+    second: wall_snow_left_1
+  - first:
+      213: -6252450101625057089
+    second: wall_snow_left_2
+  - first:
+      213: -8840898030941929149
+    second: wall_snow_left_3
+  - first:
+      213: 1756645610861124478
+    second: wall_snow_left_4
+  - first:
+      213: -4756018515635654331
+    second: wall_snow_left_5
+  - first:
+      213: 8267142662500674727
+    second: wall_snow_4
+  - first:
+      213: 2716158442809855834
+    second: wall_snow_5
+  - first:
+      213: -7452245436583807211
+    second: wall_snow_6
+  - first:
+      213: -8011682080723286920
+    second: wall_snow_right_5
+  - first:
+      213: -8385698771819101346
+    second: wall_snow_right_4
+  - first:
+      213: 8554750087110776674
+    second: wall_snow_right_3
+  - first:
+      213: 5876959029998186165
+    second: wall_snow_right_2
+  - first:
+      213: -6429495719275683069
+    second: wall_snow_right_1
+  - first:
+      213: 3102386708601715061
+    second: wall_snow_3
+  - first:
+      213: -4185384088927764890
+    second: wall_snow_2
+  - first:
+      213: -251512325576140800
+    second: wall_snow_1
+  - first:
+      213: 5908509867197974721
+    second: floor_snow_downWall_1
+  - first:
+      213: 3019375776755756382
+    second: floor_snow_downWall_2
+  - first:
+      213: 8944572182657052616
+    second: floor_snow_downWall_3
+  - first:
+      213: 2933811000775164605
+    second: floor_snow_3
+  - first:
+      213: 2288241409155386280
+    second: wall_snow_up-down_3
+  - first:
+      213: 6137511165866313827
+    second: wall_snow_up-down_2
+  - first:
+      213: 4969364393111811107
+    second: floor_snow_2
+  - first:
+      213: -8356548953397671150
+    second: floor_snow_1
+  - first:
+      213: 7345603371174993959
+    second: wall_snow_up-down_1
+  - first:
+      213: -4396279427542215937
+    second: portal_snow-to-cave_1
+  - first:
+      213: -1204302664623677429
+    second: portal_snow-to-cave_2
+  - first:
+      213: 4817762027150916016
+    second: portal_snow-to-cave_4
+  - first:
+      213: 7885918010713899903
+    second: portal_snow-to-cave_3
+  - first:
+      213: -2634910340162521083
+    second: stairs_snow_up_1
+  - first:
+      213: 3165622957279938137
+    second: stairs_snow_up_2
+  - first:
+      213: 4602101083333003590
+    second: stairs_snow_up_3
+  - first:
+      213: -1859899178423910753
+    second: stairs_snow_up_4
+  - first:
+      213: -2476418932989544888
+    second: stairs_snow_ToRight_1
+  - first:
+      213: -1524974877449779835
+    second: stairs_snow_ToRight_2
+  - first:
+      213: -7810227612581769931
+    second: stairs_snow_ToRight_3
+  - first:
+      213: 7803648352667426605
+    second: stairs_snow_ToRight_4
+  - first:
+      213: -24951731520330164
+    second: stairs_snow_down_3
+  - first:
+      213: 1057891951930964186
+    second: stairs_snow_down_4
+  - first:
+      213: 4627263727450844045
+    second: stairs_snow_down_2
+  - first:
+      213: -2415497057319848337
+    second: stairs_snow_down_1
+  - first:
+      213: 8853562782122919413
+    second: stairs_snow_ToLeft_3
+  - first:
+      213: 5251549119160801193
+    second: stairs_snow_ToLeft_4
+  - first:
+      213: 5401425917945576190
+    second: stairs_snow_ToLeft_2
+  - first:
+      213: 102296391199644127
+    second: stairs_snow_ToLeft_1
+  - first:
+      213: -5316009421754718176
+    second: Column_snow_3
+  - first:
+      213: -3940478986477399359
+    second: Column_snow_2
+  - first:
+      213: 8484778084535281906
+    second: Column_snow_1
+  - first:
+      213: 8547754421389775378
+    second: sword_blueSteel
+  - first:
+      213: 3925848515972383064
+    second: sword_adamantium
+  - first:
+      213: -2211139045845613551
+    second: sword_obsidian
+  - first:
+      213: 2788501027061118141
+    second: sword_gold
+  - first:
+      213: 937473248498931555
+    second: wall_marble_up_1
+  - first:
+      213: -4452330713510166836
+    second: wall_marble_up_2
+  - first:
+      213: -5157699728368023344
+    second: wall_marble_up_3
+  - first:
+      213: -4658246965689945867
+    second: wall_marble_up_4
+  - first:
+      213: -7985923052047478136
+    second: wall_marble_up_5
+  - first:
+      213: 3351875171265447440
+    second: wall_marble_left_1
+  - first:
+      213: 1719519804425518603
+    second: wall_marble_1
+  - first:
+      213: -2713146516273543680
+    second: wall_marble_2
+  - first:
+      213: 3263340735413750083
+    second: wall_marble_3
+  - first:
+      213: -8884939722278448142
+    second: wall_marble_right_1
+  - first:
+      213: 1971706637733339515
+    second: wall_marble_left_2
+  - first:
+      213: -4816246471768663774
+    second: floor_marble_downWall_1
+  - first:
+      213: 1364987905208959530
+    second: floor_marble_downWall_2
+  - first:
+      213: 6661336057268584962
+    second: floor_marble_downWall_3
+  - first:
+      213: -6644021398874358554
+    second: wall_marble_right_2
+  - first:
+      213: 6228715178601579847
+    second: wall_marble_right_3
+  - first:
+      213: -78657451273618646
+    second: floor_marble_3
+  - first:
+      213: 6186055644710445626
+    second: floor_marble_2
+  - first:
+      213: -6999987799273837361
+    second: floor_marble_1
+  - first:
+      213: 2345458352572171345
+    second: wall_marble_left_3
+  - first:
+      213: -7157557158452335323
+    second: wall_marble_left_4
+  - first:
+      213: -736625277635346658
+    second: wall_marble_up-down_1
+  - first:
+      213: -5093082069226452807
+    second: wall_marble_up-down_2
+  - first:
+      213: -8829171984846490559
+    second: wall_marble_up-down_3
+  - first:
+      213: 962698880164956220
+    second: wall_marble_right_4
+  - first:
+      213: -6646149388984320340
+    second: wall_marble_right_5
+  - first:
+      213: 9196090061265109705
+    second: wall_marble_6
+  - first:
+      213: 7782209951936461516
+    second: wall_marble_5
+  - first:
+      213: -7254534354535604978
+    second: wall_marble_4
+  - first:
+      213: -3135147798804758519
+    second: wall_marble_left_5
+  - first:
+      213: 6578917563672589904
+    second: wall_mesh_up_1
+  - first:
+      213: -8910842652898843429
+    second: wall_mesh_up_2
+  - first:
+      213: -4274848023855309293
+    second: wall_mesh_up_3
+  - first:
+      213: 2161558130197356600
+    second: wall_mesh_up_4
+  - first:
+      213: 1803077659247114572
+    second: wall_mesh_up_5
+  - first:
+      213: -4728422189429799502
+    second: wall_mesh_left_1
+  - first:
+      213: -2663681271276133081
+    second: wall_mesh_1
+  - first:
+      213: 4371997098368104152
+    second: wall_mesh_2
+  - first:
+      213: -8028328787640440650
+    second: wall_mesh_3
+  - first:
+      213: -6582713331523660765
+    second: wall_mesh_right_1
+  - first:
+      213: 184361593330234895
+    second: wall_mesh_right_2
+  - first:
+      213: 3826443929911450080
+    second: floor_mesh_downWall_
+  - first:
+      213: -4964494866452242079
+    second: floor_mesh_downWall_2
+  - first:
+      213: 252446104087255586
+    second: floor_mesh_downWall_1
+  - first:
+      213: -1036742604777998936
+    second: wall_mesh_left_2
+  - first:
+      213: -7502510543029846372
+    second: wall_mesh_left_3
+  - first:
+      213: -7442327198279679995
+    second: floor_mesh_1
+  - first:
+      213: 6752234339150263834
+    second: floor_mesh_2
+  - first:
+      213: -297478303907634271
+    second: floor_mesh_3
+  - first:
+      213: -1875305931160779386
+    second: wall_mesh_right_3
+  - first:
+      213: 5515198049003848533
+    second: wall_mesh_right_4
+  - first:
+      213: -4245012789904964968
+    second: wall_mesh_up-down_3
+  - first:
+      213: -6866685199468292824
+    second: wall_mesh_up-down_2
+  - first:
+      213: 3211297999833979433
+    second: wall_mesh_up-down_1
+  - first:
+      213: -5463382522499115076
+    second: wall_mesh_left_4
+  - first:
+      213: -307228504813616573
+    second: wall_mesh_left_5
+  - first:
+      213: 5551957237945723308
+    second: wall_mesh_4
+  - first:
+      213: 5937073307479369753
+    second: wall_mesh_5
+  - first:
+      213: -1390855553556453404
+    second: wall_mesh_6
+  - first:
+      213: 2301523133715185967
+    second: wall_mesh_right_5
+  - first:
+      213: 6333975468875120918
+    second: wall_cave_up_1
+  - first:
+      213: -4865638696596255229
+    second: wall_cave_up_2
+  - first:
+      213: 3447872678147017314
+    second: wall_cave_up_3
+  - first:
+      213: 2448577221382652758
+    second: wall_cave_up_4
+  - first:
+      213: 6237968858630370280
+    second: wall_cave_up_5
+  - first:
+      213: -7946127031819925346
+    second: wall_cave_right_1
+  - first:
+      213: 3238184791706485103
+    second: wall_cave_3
+  - first:
+      213: 8617085270657533649
+    second: wall_cave_2
+  - first:
+      213: -1368419642813648281
+    second: wall_cave_1
+  - first:
+      213: -4442973851240753755
+    second: wall_cave_left_1
+  - first:
+      213: -2716462764775641735
+    second: wall_cave_left_2
+  - first:
+      213: 1167771373152344846
+    second: floor_cave_downWall_1
+  - first:
+      213: -176336712665288252
+    second: floor_cave_downWall_2
+  - first:
+      213: 6436731953097181573
+    second: floor_cave_downWall_3
+  - first:
+      213: -787043789271134129
+    second: wall_cave_right_2
+  - first:
+      213: 4610993577517777561
+    second: wall_cave_right_3
+  - first:
+      213: -3085488819368753758
+    second: floor_cave_3
+  - first:
+      213: 1905005198426195483
+    second: floor_cave_2
+  - first:
+      213: -5296740346781955119
+    second: floor_cave_1
+  - first:
+      213: -8445989246014594557
+    second: wall_cave_left_3
+  - first:
+      213: 2672619672328147693
+    second: wall_cave_left_4
+  - first:
+      213: -9183851018108911022
+    second: wall_cave_up-down_1
+  - first:
+      213: -8150290848291654097
+    second: wall_cave_up-down_2
+  - first:
+      213: 1655060446091141968
+    second: wall_cave_up-down_3
+  - first:
+      213: -2941077485815257099
+    second: wall_cave_right_4
+  - first:
+      213: 570168839076953356
+    second: wall_cave_right_5
+  - first:
+      213: 1793154807140107760
+    second: wall_cave_6
+  - first:
+      213: -213500690941510340
+    second: wall_cave_5
+  - first:
+      213: -2266540175242097329
+    second: wall_cave_4
+  - first:
+      213: -1565275816294929640
+    second: wall_cave_left_5
+  - first:
+      213: -2893664123923289982
+    second: stairs_marble_up_1
+  - first:
+      213: -2069692562265281641
+    second: stairs_marble_up_2
+  - first:
+      213: -2809006306351333375
+    second: stairs_marble_up_3
+  - first:
+      213: -8990090543857132724
+    second: stairs_marble_up_4
+  - first:
+      213: -7352965376322259605
+    second: stairs_marble_toRight_1
+  - first:
+      213: -1337361127938609246
+    second: stairs_marble_toRight_3
+  - first:
+      213: 533870754643678998
+    second: stairs_marble_toRight_4
+  - first:
+      213: -5858311073656304688
+    second: stairs_marble_toRight_2
+  - first:
+      213: 7796763005759542967
+    second: stairs_marble_down_3
+  - first:
+      213: -8229600432625968444
+    second: stairs_marble_down_4
+  - first:
+      213: 5402088748915964154
+    second: stairs_marble_down_2
+  - first:
+      213: -8304415409685851505
+    second: stairs_marble_down_1
+  - first:
+      213: -8797329646523068687
+    second: stairs_marble_toLeft_4
+  - first:
+      213: -4447567922612592985
+    second: stairs_marble_toLeft_3
+  - first:
+      213: -4821358194707797318
+    second: stairs_marble_toLeft_2
+  - first:
+      213: 8395965609873429949
+    second: stairs_marble_toLeft_1
+  - first:
+      213: -3061705910412242608
+    second: column_marble_3
+  - first:
+      213: 259513402266282265
+    second: column_marble_2
+  - first:
+      213: -7289723624270646297
+    second: column_marble_1
+  - first:
+      213: 7116594468769008901
+    second: portal_marble-to-finall_1
+  - first:
+      213: 5772330571542150183
+    second: portal_marble-to-finall_2
+  - first:
+      213: -3634109797289703898
+    second: portal_marble-to-finall_4
+  - first:
+      213: -555142844034906387
+    second: portal_marble-to-finall_3
+  - first:
+      213: 6100076201084699368
+    second: stairs_mesh_up_1
+  - first:
+      213: 5815468921273038486
+    second: stairs_mesh_up_2
+  - first:
+      213: -2107506457666973145
+    second: stairs_mesh_up_4
+  - first:
+      213: 6181462566513536777
+    second: stairs_mesh_up_3
+  - first:
+      213: -458275670358214337
+    second: column_mesh_1
+  - first:
+      213: -2985615860863465780
+    second: column_mesh_2
+  - first:
+      213: -8142362189827645122
+    second: column_mesh_3
+  - first:
+      213: -3152510915832493676
+    second: stairs_mesh_toRight_2
+  - first:
+      213: -5413643466515931673
+    second: stairs_mesh_toRight_1
+  - first:
+      213: -1533426353426139162
+    second: stairs_mesh_toRight_3
+  - first:
+      213: -7494253998508983117
+    second: stairs_mesh_toRight_4
+  - first:
+      213: -6758637182142722627
+    second: stairs_mesh_toLeft_1
+  - first:
+      213: 6583856041919782402
+    second: stairs_mesh_toLeft_2
+  - first:
+      213: 927786694424952002
+    second: stairs_mesh_toLeft_4
+  - first:
+      213: -7375095306457607703
+    second: stairs_mesh_toLeft_3
+  - first:
+      213: -1293177144959294090
+    second: stairs_mesh_down_1
+  - first:
+      213: 5805589885837531004
+    second: stairs_mesh_down_2
+  - first:
+      213: -5772033994399183336
+    second: stairs_mesh_down_3
+  - first:
+      213: 4888443192263259294
+    second: stairs_mesh_down_4
+  - first:
+      213: 632924613764369927
+    second: portal_mesh-to-snow_1
+  - first:
+      213: -2411915761436355132
+    second: portal_mesh-to-snow_2
+  - first:
+      213: 5354721398195400
+    second: portal_mesh-to-snow_4
+  - first:
+      213: 2195055553586342006
+    second: portal_mesh-to-snow_3
+  - first:
+      213: 7168332414304732750
+    second: chest_mesh_full
+  - first:
+      213: 7446283796578089192
+    second: chest_mesh_empty
+  - first:
+      213: -3546556431913338975
+    second: chest_mesh_closed
+  - first:
+      213: 2523313049996908937
+    second: stairs_cave_up_1
+  - first:
+      213: -2521110157531627189
+    second: stairs_cave_up_2
+  - first:
+      213: 774604658547211329
+    second: column_cave_1
+  - first:
+      213: -1558593801080795847
+    second: column_cave_2
+  - first:
+      213: -3522516321556007393
+    second: stairs_cave_toLeft_1
+  - first:
+      213: 7702028138952302979
+    second: stairs_cave_toLeft_2
+  - first:
+      213: 2489138576291235758
+    second: stairs_cave_toLeft_4
+  - first:
+      213: -1899671762142399614
+    second: stairs_cave_toLeft_3
+  - first:
+      213: -700799565453979769
+    second: column_cave_3
+  - first:
+      213: 5200989381095400468
+    second: stairs_cave_up_4
+  - first:
+      213: 8489520208393778603
+    second: stairs_cave_up_3
+  - first:
+      213: 2236233087485971482
+    second: stairs_cave_toRight_1
+  - first:
+      213: -4252420874616002042
+    second: stairs_cave_toRight_2
+  - first:
+      213: -7711284336136401515
+    second: stairs_cave_toRight_4
+  - first:
+      213: 6715014948372121972
+    second: stairs_cave_toRight_3
+  - first:
+      213: 3313125427887183199
+    second: stairs_cave_down_1
+  - first:
+      213: 7769560436106265982
+    second: stairs_cave_down_2
+  - first:
+      213: 4391203309442687538
+    second: stairs_cave_down_3
+  - first:
+      213: 6215912696946300047
+    second: stairs_cave_down_4
+  - first:
+      213: 2147148401793415739
+    second: portal_cave-to-marble_1
+  - first:
+      213: 1387540411139769575
+    second: portal_cave-to-marble_2
+  - first:
+      213: -3778323346376243685
+    second: portal_cave-to-marble_4
+  - first:
+      213: -7671241197769134186
+    second: portal_cave-to-marble_3
+  - first:
+      213: -6946814563204206030
+    second: menu_button
+  - first:
+      213: -281940064866544240
+    second: wall_final_up_1
+  - first:
+      213: 4992698529398675510
+    second: wall_final_up_2
+  - first:
+      213: -304846669095396191
+    second: wall_final_up_3
+  - first:
+      213: -204070499510148371
+    second: wall_final_up_4
+  - first:
+      213: 5032772190271785853
+    second: wall_final_up_5
+  - first:
+      213: -3277428336385462826
+    second: wall_final_left_1
+  - first:
+      213: 6060468090396049725
+    second: wall_finall_1
+  - first:
+      213: 5491373539500634973
+    second: wall_finall_2
+  - first:
+      213: -2554379912288632466
+    second: wall_finall_3
+  - first:
+      213: -7687061138423156632
+    second: wall_final_right_1
+  - first:
+      213: 7570657251031965934
+    second: wall_final_left_2
+  - first:
+      213: -4483740005509582160
+    second: wall_final_left_3
+  - first:
+      213: 4276941885352722527
+    second: wall_final_left_4
+  - first:
+      213: -3753822590312865762
+    second: wall_final_left_5
+  - first:
+      213: -2689601942321418855
+    second: wall_finall_4
+  - first:
+      213: 4915223851211597331
+    second: wall_finall_up-down_1
+  - first:
+      213: 6574133226617530390
+    second: wall_finall_up-down_2
+  - first:
+      213: -6116001054426568284
+    second: wall_finall_5
+  - first:
+      213: 4754864787692778512
+    second: wall_finall_6
+  - first:
+      213: -3996467735305354036
+    second: wall_finall_up-down_3
+  - first:
+      213: 654742748103804995
+    second: wall_final_right_5
+  - first:
+      213: -8357344161617444388
+    second: wall_final_right_4
+  - first:
+      213: -7110419693784061894
+    second: wall_final_right_3
+  - first:
+      213: -8115156136303375554
+    second: wall_final_right_2
+  - first:
+      213: -2553511793179230068
+    second: floor_finall_downWall_3
+  - first:
+      213: -5253388666721292045
+    second: floor_finall_downWall_2
+  - first:
+      213: 4727499858489740261
+    second: floor_finall_downWall_1
+  - first:
+      213: 6894559751999123867
+    second: floor_finall_1
+  - first:
+      213: -1682544954808407885
+    second: floor_finall_2
+  - first:
+      213: 8196052309850354923
+    second: floor_finall_3
+  - first:
+      213: 493220905969620604
+    second: stairs_finall_up_1
+  - first:
+      213: 5914137721168697910
+    second: stairs_finall_up_2
+  - first:
+      213: 4217358823638709134
+    second: stairs_finall_up_3
+  - first:
+      213: -6004616152145131554
+    second: stairs_finall_up_4
+  - first:
+      213: 8242757115209200281
+    second: column_finall_1
+  - first:
+      213: -1966083462337117090
+    second: column_finall_2
+  - first:
+      213: -6490411041787670678
+    second: stairs_finall_toLeft_1
+  - first:
+      213: 5846347185137595342
+    second: stairs_finall_toLeft_2
+  - first:
+      213: 8737859008515541455
+    second: stairs_finall_toLeft_4
+  - first:
+      213: -7193856802144881064
+    second: stairs_finall_toLeft_3
+  - first:
+      213: 2734033815158171072
+    second: column_finall_3
+  - first:
+      213: -327061816102941314
+    second: stairs_finall_toRight_1
+  - first:
+      213: 679736778355240489
+    second: stairs_finall_toRight_2
+  - first:
+      213: -2528224733614021979
+    second: stairs_finall_toRight_4
+  - first:
+      213: -3211474106799798645
+    second: stairs_finall_toRight_3
+  - first:
+      213: -5480789564588354377
+    second: floor_final_background
+  - first:
+      213: -456711718086220379
+    second: stairs_finall_down_3
+  - first:
+      213: -5048583846458343800
+    second: stairs_finall_down_4
+  - first:
+      213: -2136074546793482963
+    second: stairs_finall_down_2
+  - first:
+      213: -145243232238706849
+    second: stairs_finall_down_1
+  - first:
+      213: 5703963710723520218
+    second: floor_snow_background
+  - first:
+      213: 8174870101199796975
+    second: floor_marble_background
+  - first:
+      213: -382026207327365176
+    second: floor_mesh_background
+  - first:
+      213: -1905499871932203924
+    second: floor_cave_background
+  - first:
+      213: -7588568831866369325
+    second: sword_steel
+  - first:
+      213: 8530554086197485642
+    second: sword_iron
+  - first:
+      213: -5444471675770644913
+    second: sword_rusty
+  - first:
+      213: -5208627312016279735
+    second: sword_wooden
+  - first:
+      213: 2291793032304885953
+    second: chest_finall_empty
+  - first:
+      213: -5359241900070675698
+    second: chest_finall_full
+  - first:
+      213: 1067354442822852028
+    second: chest_finall_closed
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_big
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e129a8757343f0800000000000000
+      internalID: -917760737959353963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_mechanicus
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 438
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720f4935af4203b0800000000000000
+      internalID: -5547784219917352333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_cave
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 405
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5cd27b3c3d4f570800000000000000
+      internalID: 8499651234300282302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_mesh
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 373
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb513b51e46a6450800000000000000
+      internalID: 6082785165777656809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golem_ice
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794241ba29cc3a9d0800000000000000
+      internalID: -2764140815967837033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_health
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 410
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff6ff1d03005aa40800000000000000
+      internalID: 5378705539645534197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_ice_snowman
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f0a6e75802db60800000000000000
+      internalID: 7769281480792011367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_ice_tree
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245caabbe04126df0800000000000000
+      internalID: -188566180885510846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_ice_fox
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b66ffe4f7e6a0450800000000000000
+      internalID: 6055774142018315960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_marble_robot_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0e9689b568e530800000000000000
+      internalID: 3884466526108912641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_marble_robot_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f799cd0e6168a7ef0800000000000000
+      internalID: -109627808097199745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_marble_robot_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dade2f3f494c0ef0800000000000000
+      internalID: -140656883644048682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_marble_robot_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a9328537b69a770800000000000000
+      internalID: 8622541104721664656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_cave_skeleton
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8552cec113033e300800000000000000
+      internalID: 280120589323871576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_cave_wolf
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f683bb6e17a7300800000000000000
+      internalID: 250637965069938556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_cave_rat
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b299c770614480800000000000000
+      internalID: -8916739719617661475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_mesh_mole
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5856934369a8e7b0800000000000000
+      internalID: -5194715926371084193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_mesh_spider
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e18957344693a0800000000000000
+      internalID: -6659059994505123633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_mesh_ghost
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d1e840263cac7c0800000000000000
+      internalID: -4050210089115706068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_final_gladiator_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d17ca22c229ab0800000000000000
+      internalID: -5002887708621548380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_final_gladiator_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5490ecfc5e07635e0800000000000000
+      internalID: -1930231257945470651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_final_gladiator_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaac1662df6f2a80800000000000000
+      internalID: -8489443823123125571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_final_gladiator_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190eeb990ed7c0e40800000000000000
+      internalID: 5624008438284476561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_final_gladiator_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa3bbb55df1cf10800000000000000
+      internalID: 2288388630344084215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_small
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24bb691bfeee0250800000000000000
+      internalID: 5912926123014730795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_snow_full
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a1884719381600800000000000000
+      internalID: 439163735832111272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_snow_empty
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cfe62a0f0d31400800000000000000
+      internalID: 293808132645125232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_snow_closed
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed8d4badb07bf660800000000000000
+      internalID: 7420648770948140519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012b6cfdfe6fae40800000000000000
+      internalID: 5669872493023404292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c68c94ae5837920800000000000000
+      internalID: 2986878219183483906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf75b74d01e188a0800000000000000
+      internalID: -6304510556188082245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b88fe4d2cdd58430800000000000000
+      internalID: 3784674890740631731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55c0925bdc95d150800000000000000
+      internalID: 5896791752908522846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b9c9183452bf90800000000000000
+      internalID: -6939391475896960697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_left_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb098cc62c5da39a0800000000000000
+      internalID: -6252450101625057089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_left_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341814af412de4580800000000000000
+      internalID: -8840898030941929149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_left_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b50af30ebd06810800000000000000
+      internalID: 1756645610861124478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_left_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5413b56cb5a3ffdb0800000000000000
+      internalID: -4756018515635654331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac64d9437acab270800000000000000
+      internalID: 8267142662500674727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0c5186bbb1b520800000000000000
+      internalID: 2716158442809855834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5177565524e449890800000000000000
+      internalID: -7452245436583807211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_right_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87440256899c0d090800000000000000
+      internalID: -8011682080723286920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_right_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530b48756300ab80800000000000000
+      internalID: -8385698771819101346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_right_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267da7411e398b670800000000000000
+      internalID: 8554750087110776674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_right_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee09ea9172f8150800000000000000
+      internalID: 5876959029998186165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_right_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303adaf45b7d5c6a0800000000000000
+      internalID: -6429495719275683069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579391a3644ed0b20800000000000000
+      internalID: 3102386708601715061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e73e2a8578ae5c0800000000000000
+      internalID: -4185384088927764890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008d6695fd2728cf0800000000000000
+      internalID: -251512325576140800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_snow_downWall_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c93a6b6e3ff150800000000000000
+      internalID: 5908509867197974721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_snow_downWall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d22f8854af6e920800000000000000
+      internalID: 3019375776755756382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_snow_downWall_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2d1f7201812c70800000000000000
+      internalID: 8944572182657052616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_snow_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2465baf8df6b820800000000000000
+      internalID: 2933811000775164605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up-down_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abcb01207771cf10800000000000000
+      internalID: 2288241409155386280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up-down_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368847e23e1dc2550800000000000000
+      internalID: 6137511165866313827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_snow_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32477e2369ab6f440800000000000000
+      internalID: 4969364393111811107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_snow_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc1947003970c80800000000000000
+      internalID: -8356548953397671150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up-down_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202ccfe853d0f560800000000000000
+      internalID: 7345603371174993959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-cave_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff21df337274df2c0800000000000000
+      internalID: -4396279427542215937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-cave_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00ac017b15794fe0800000000000000
+      internalID: -1204302664623677429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-cave_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b932b0c9012cd240800000000000000
+      internalID: 4817762027150916016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-cave_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73057c36a8607d60800000000000000
+      internalID: 7885918010713899903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_up_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508fb97810bee6bd0800000000000000
+      internalID: -2634910340162521083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_up_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9560e75be4d8eeb20800000000000000
+      internalID: 3165622957279938137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_up_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64901846d82fddf30800000000000000
+      internalID: 4602101083333003590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_up_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e70082d8f4036e0800000000000000
+      internalID: -1859899178423910753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToRight_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463b10e91ef1add0800000000000000
+      internalID: -2476418932989544888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToRight_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585063abd6336dae0800000000000000
+      internalID: -1524974877449779835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToRight_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dcd11ed5f7c9390800000000000000
+      internalID: -7810227612581769931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToRight_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fddccc4d02c4c60800000000000000
+      internalID: 7803648352667426605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_down_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46233a488a57aff0800000000000000
+      internalID: -24951731520330164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_down_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f69510236eae00800000000000000
+      internalID: 1057891951930964186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_down_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be1c408d7573040800000000000000
+      internalID: 4627263727450844045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_down_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f276693e6a7ed0800000000000000
+      internalID: -2415497057319848337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToLeft_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f54e01317c2eda70800000000000000
+      internalID: 8853562782122919413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToLeft_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a75818991041e840800000000000000
+      internalID: 5251549119160801193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToLeft_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efafbbf1148b5fa40800000000000000
+      internalID: 5401425917945576190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToLeft_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9524b960e6b6100800000000000000
+      internalID: 102296391199644127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_snow_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 470
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282ea9a89db936b0800000000000000
+      internalID: -5316009421754718176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_snow_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29f164d3b9059c0800000000000000
+      internalID: -3940478986477399359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_snow_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8aebea6bcffb570800000000000000
+      internalID: 8484778084535281906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_blueSteel
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 470
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212563abb59bf9670800000000000000
+      internalID: 8547754421389775378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_adamantium
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 470
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851478cdc6a6b7630800000000000000
+      internalID: 3925848515972383064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_obsidian
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 453
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114406fb0c47051e0800000000000000
+      internalID: -2211139045845613551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_gold
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 453
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db43ac5f8eeb2b620800000000000000
+      internalID: 2788501027061118141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d53bd3f2920d00800000000000000
+      internalID: 937473248498931555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce3aa63ec42632c0800000000000000
+      internalID: -4452330713510166836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8ce787c6b2c68b0800000000000000
+      internalID: -5157699728368023344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0720ea0159a5fb0800000000000000
+      internalID: -4658246965689945867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8825b1f9b4d4c2190800000000000000
+      internalID: -7985923052047478136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168ab295b0448e20800000000000000
+      internalID: 3351875171265447440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3807d626fcd710800000000000000
+      internalID: 1719519804425518603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064de94e97f85ad0800000000000000
+      internalID: -2713146516273543680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3490663eb17b94d20800000000000000
+      internalID: 3263340735413750083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_right_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3d5d2a56a52b480800000000000000
+      internalID: -8884939722278448142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_left_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71206f8db8ec5b10800000000000000
+      internalID: 1971706637733339515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_marble_downWall_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229108bf951492db0800000000000000
+      internalID: -4816246471768663774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_marble_downWall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a224fac844961f210800000000000000
+      internalID: 1364987905208959530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_marble_downWall_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202cefec9d1d17c50800000000000000
+      internalID: 6661336057268584962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_right_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecffff3db1bbc3a0800000000000000
+      internalID: -6644021398874358554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_right_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74581ab2477d07650800000000000000
+      internalID: 6228715178601579847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_marble_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bf5edf67d88eef0800000000000000
+      internalID: -78657451273618646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_marble_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3224cf65d849d550800000000000000
+      internalID: 6186055644710445626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_marble_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcce6302f2c0bde90800000000000000
+      internalID: -6999987799273837361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_left_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1548984e1fdbc8020800000000000000
+      internalID: 2345458352572171345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_left_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52de4eecfaf3bac90800000000000000
+      internalID: -7157557158452335323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up-down_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb8f9763bf6c5f0800000000000000
+      internalID: -736625277635346658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up-down_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b888d3a7dcb159b0800000000000000
+      internalID: -5093082069226452807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up-down_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144f466dbda787580800000000000000
+      internalID: -8829171984846490559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_right_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3806e9e7813c5d00800000000000000
+      internalID: 962698880164956220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_right_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caef861f75224c3a0800000000000000
+      internalID: -6646149388984320340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2053010331f9f70800000000000000
+      internalID: 9196090061265109705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabea828b6fffb60800000000000000
+      internalID: 7782209951936461516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d9903d077b25b90800000000000000
+      internalID: -7254534354535604978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_left_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90005ed00b7bd74d0800000000000000
+      internalID: -3135147798804758519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567845eaa20d4b50800000000000000
+      internalID: 6578917563672589904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a090a1d3565480800000000000000
+      internalID: -8910842652898843429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ed2551f50bca4c0800000000000000
+      internalID: -4274848023855309293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83065cfbaa56ffd10800000000000000
+      internalID: 2161558130197356600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49fdd5f391d50910800000000000000
+      internalID: 1803077659247114572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b546fa2215416eb0800000000000000
+      internalID: -4728422189429799502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a9be1ff3b80bd0800000000000000
+      internalID: -2663681271276133081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6f44772347cac30800000000000000
+      internalID: 4371997098368104152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b826a8e085a59090800000000000000
+      internalID: -8028328787640440650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_right_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324dd480a1185a4a0800000000000000
+      internalID: -6582713331523660765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_right_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f067ca074ebfe8200800000000000000
+      internalID: 184361593330234895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_mesh_downWall_
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9525b1b724a1530800000000000000
+      internalID: 3826443929911450080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_mesh_downWall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1612dd3d8329a1bb0800000000000000
+      internalID: -4964494866452242079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_mesh_downWall_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a5d07e46ed08300800000000000000
+      internalID: 252446104087255586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_left_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b1b60810cc91f0800000000000000
+      internalID: -1036742604777998936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_left_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e351f396ab1e790800000000000000
+      internalID: -7502510543029846372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_mesh_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500cf4428da87b890800000000000000
+      internalID: -7442327198279679995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_mesh_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16fe394b51c4bd50800000000000000
+      internalID: 6752234339150263834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_mesh_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a323370f052fdbf0800000000000000
+      internalID: -297478303907634271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_right_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6858afff03399f5e0800000000000000
+      internalID: -1875305931160779386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_right_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5534dc0a76be98c40800000000000000
+      internalID: 5515198049003848533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up-down_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89289becb5fa615c0800000000000000
+      internalID: -4245012789904964968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up-down_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825924d3132a4b0a0800000000000000
+      internalID: -6866685199468292824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up-down_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ad6044482d09c20800000000000000
+      internalID: 3211297999833979433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_left_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7dc52ca8a2e24b0800000000000000
+      internalID: -5463382522499115076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_left_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c5b97d418cbbf0800000000000000
+      internalID: -307228504813616573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e9ef31b38c0d40800000000000000
+      internalID: 5551957237945723308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e2c997b8b46250800000000000000
+      internalID: 5937073307479369753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7636c3e30b2bce0800000000000000
+      internalID: -1390855553556453404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_right_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21007b9817a0ff10800000000000000
+      internalID: 2301523133715185967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611075e412dc6e750800000000000000
+      internalID: 6333975468875120918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e4cfb7267c97cb0800000000000000
+      internalID: -4865638696596255229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a4ab3eeed49df20800000000000000
+      internalID: 3447872678147017314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65340ad72081bf120800000000000000
+      internalID: 2448577221382652758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3bc9270a7b19650800000000000000
+      internalID: 6237968858630370280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_right_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e988e30a09fa9b190800000000000000
+      internalID: -7946127031819925346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ccb259e750fc20800000000000000
+      internalID: 3238184791706485103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d60bccf569069770800000000000000
+      internalID: 8617085270657533649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fc66c595620de0800000000000000
+      internalID: -1368419642813648281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5127a72d26752c0800000000000000
+      internalID: -4442973851240753755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_left_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de8f3028f2d4ad0800000000000000
+      internalID: -2716462764775641735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_downWall_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b9d9370e1c43010800000000000000
+      internalID: 1167771373152344846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_downWall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1b9b0b1b68d8df0800000000000000
+      internalID: -176336712665288252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_downWall_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58983caab9dd35950800000000000000
+      internalID: 6436731953097181573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_right_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4011d5f7dbd315f0800000000000000
+      internalID: -787043789271134129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_right_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9920e898a3a8dff30800000000000000
+      internalID: 4610993577517777561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5061334442e25d0800000000000000
+      internalID: -3085488819368753758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1647738220ff6a10800000000000000
+      internalID: 1905005198426195483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db059ac7b23e76b0800000000000000
+      internalID: -5296740346781955119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_left_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302e78e8781d9ca80800000000000000
+      internalID: -8445989246014594557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_left_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de217dc8e6d071520800000000000000
+      internalID: 2672619672328147693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up-down_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252428b38286c8080800000000000000
+      internalID: -9183851018108911022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up-down_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267573d7a954ee80800000000000000
+      internalID: -8150290848291654097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up-down_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053ef03f4b4f7f610800000000000000
+      internalID: 1655060446091141968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_right_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f72511fb913f27d0800000000000000
+      internalID: -2941077485815257099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_right_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dbd2bc985a9e700800000000000000
+      internalID: 570168839076953356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5cedaebc092e810800000000000000
+      internalID: 1793154807140107760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d7125b04e790df0800000000000000
+      internalID: -213500690941510340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d0b8128b1ab80e0800000000000000
+      internalID: -2266540175242097329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_left_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2b3230f5074ae0800000000000000
+      internalID: -1565275816294929640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_up_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a2428fc3a7d7d0800000000000000
+      internalID: -2893664123923289982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_up_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be8ef8499f643e0800000000000000
+      internalID: -2069692562265281641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_up_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c81aa5a76409d0800000000000000
+      internalID: -2809006306351333375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_up_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b1cca2848cc3380800000000000000
+      internalID: -8990090543857132724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_toRight_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65b09aa2f405f990800000000000000
+      internalID: -7352965376322259605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_toRight_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afadc8c32db07de0800000000000000
+      internalID: -1337361127938609246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_toRight_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617918e6f90b86700800000000000000
+      internalID: 533870754643678998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_toRight_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db8afefd1913bea0800000000000000
+      internalID: -5858311073656304688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_down_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6543c05aaa33c60800000000000000
+      internalID: 7796763005759542967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_down_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca9de142069acd80800000000000000
+      internalID: -8229600432625968444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_down_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8354c781318fa40800000000000000
+      internalID: 5402088748915964154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_down_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82156efe2ac0cc80800000000000000
+      internalID: -8304415409685851505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_toLeft_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fecaf6fb4b99e580800000000000000
+      internalID: -8797329646523068687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_toLeft_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1142e9801742c0800000000000000
+      internalID: -4447567922612592985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_toLeft_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae58d3448171db0800000000000000
+      internalID: -4821358194707797318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_toLeft_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d6ea0d36748470800000000000000
+      internalID: 8395965609873429949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_marble_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0511a2332b2a285d0800000000000000
+      internalID: -3061705910412242608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_marble_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919e88c701af99300800000000000000
+      internalID: 259513402266282265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_marble_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e333908cf2b5da90800000000000000
+      internalID: -7289723624270646297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-finall_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d8c79c6f833c260800000000000000
+      internalID: 7116594468769008901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-finall_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb5ea52107b1050800000000000000
+      internalID: 5772330571542150183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-finall_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c7c9c46c019dc0800000000000000
+      internalID: -3634109797289703898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-finall_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de603bd468cbb48f0800000000000000
+      internalID: -555142844034906387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_up_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2c77c3cf2d7a450800000000000000
+      internalID: 6100076201084699368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_up_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696bdc61c22b4b050800000000000000
+      internalID: 5815468921273038486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_up_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221be4fa02a0c2e0800000000000000
+      internalID: -2107506457666973145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_up_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fe9651477f8c550800000000000000
+      internalID: 6181462566513536777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_mesh_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393813b4b0e3a9f0800000000000000
+      internalID: -458275670358214337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_mesh_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc606796136f096d0800000000000000
+      internalID: -2985615860863465780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_mesh_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3160ca7ab4800f80800000000000000
+      internalID: -8142362189827645122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_toRight_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499434756080044d0800000000000000
+      internalID: -3152510915832493676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_toRight_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed14bd23ffded4b0800000000000000
+      internalID: -5413643466515931673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_toRight_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7ffc22bdc28bae0800000000000000
+      internalID: -1533426353426139162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_toRight_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc3252d1bf0ff790800000000000000
+      internalID: -7494253998508983117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_toLeft_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc2a8aa4f7432a0800000000000000
+      internalID: -6758637182142722627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_toLeft_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e10f6ff2e8e5b50800000000000000
+      internalID: 6583856041919782402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_toLeft_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc788c351920ec00800000000000000
+      internalID: 927786694424952002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_toLeft_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e191f9c4e566a990800000000000000
+      internalID: -7375095306457607703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_down_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6752c0bfc36bd0ee0800000000000000
+      internalID: -1293177144959294090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_down_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7752f8ed39919050800000000000000
+      internalID: 5805589885837531004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_down_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8b54e9ad95efa0800000000000000
+      internalID: -5772033994399183336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_down_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94378bee2d37d340800000000000000
+      internalID: 4888443192263259294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-snow_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec605359998c800800000000000000
+      internalID: 632924613764369927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-snow_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c59b63d467278ed0800000000000000
+      internalID: -2411915761436355132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-snow_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48fca3716031000800000000000000
+      internalID: 5354721398195400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-snow_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67823c56567667e10800000000000000
+      internalID: 2195055553586342006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_mesh_full
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e464d82f9580b7360800000000000000
+      internalID: 7168332414304732750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_mesh_empty
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b8cf29a3865760800000000000000
+      internalID: 7446283796578089192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_mesh_closed
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7bde337b918cec0800000000000000
+      internalID: -3546556431913338975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_up_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895c2299db940320800000000000000
+      internalID: 2523313049996908937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_up_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c2bc4ba7330dd0800000000000000
+      internalID: -2521110157531627189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_cave_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb11a35d2ffba00800000000000000
+      internalID: 774604658547211329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_cave_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d04791233ce5ae0800000000000000
+      internalID: -1558593801080795847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_toLeft_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16732291128d1fc0800000000000000
+      internalID: -3522516321556007393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_toLeft_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a05809c913ea60800000000000000
+      internalID: 7702028138952302979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_toLeft_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78f8cd8523b8220800000000000000
+      internalID: 2489138576291235758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_toLeft_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28379a3e89203a5e0800000000000000
+      internalID: -1899671762142399614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_cave_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f0e5a12824646f0800000000000000
+      internalID: -700799565453979769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_up_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41425cc3940ad2840800000000000000
+      internalID: 5200989381095400468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_up_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5bfce66a5d0d570800000000000000
+      internalID: 8489520208393778603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_toRight_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c839e1522b80f10800000000000000
+      internalID: 2236233087485971482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_toRight_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aae0daebd5cf4c0800000000000000
+      internalID: -4252420874616002042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_toRight_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d4e8e90c30cf490800000000000000
+      internalID: -7711284336136401515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_toRight_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47988239486803d50800000000000000
+      internalID: 6715014948372121972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_down_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f559781e5069afd20800000000000000
+      internalID: 3313125427887183199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_down_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750b0f3d0603db60800000000000000
+      internalID: 7769560436106265982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_down_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e9d3f420b0fc30800000000000000
+      internalID: 4391203309442687538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_cave_down_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8413502aab534650800000000000000
+      internalID: 6215912696946300047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-marble_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab1f868143ccd10800000000000000
+      internalID: 2147148401793415739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-marble_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44c7507a8814310800000000000000
+      internalID: 1387540411139769575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-marble_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16cda45fe2b09bc0800000000000000
+      internalID: -3778323346376243685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-marble_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe0ac46c64a8590800000000000000
+      internalID: -7671241197769134186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_button
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232f3b7e5f4f79f90800000000000000
+      internalID: -6946814563204206030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_up_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095dda93109561cf0800000000000000
+      internalID: -281940064866544240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_up_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385c6b2cd0a94540800000000000000
+      internalID: 4992698529398675510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_up_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9b91d197f4cbf0800000000000000
+      internalID: -304846669095396191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_up_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2af8f36fefa2df0800000000000000
+      internalID: -204070499510148371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_up_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b4d9c64aff7d540800000000000000
+      internalID: 5032772190271785853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dde1f8ea4c3482d0800000000000000
+      internalID: -3277428336385462826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3185a45e9b1b1450800000000000000
+      internalID: 6060468090396049725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d533aeeb327453c40800000000000000
+      internalID: 5491373539500634973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6184a2e0050d8cd0800000000000000
+      internalID: -2554379912288632466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_right_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f3955f92125590800000000000000
+      internalID: -7687061138423156632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_left_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0eef3a8a0601960800000000000000
+      internalID: 7570657251031965934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_left_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2b46a883e86c1c0800000000000000
+      internalID: -4483740005509582160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_left_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5040790cffba5b30800000000000000
+      internalID: 4276941885352722527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_left_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a0922e3eb7ebc0800000000000000
+      internalID: -3753822590312865762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2bb8984d9caad0800000000000000
+      internalID: -2689601942321418855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_up-down_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316aefafc02663440800000000000000
+      internalID: 4915223851211597331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_up-down_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61861ae96530c3b50800000000000000
+      internalID: 6574133226617530390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96df8e1799f1ba0800000000000000
+      internalID: -6116001054426568284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f071055cacf140800000000000000
+      internalID: 4754864787692778512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_up-down_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc480d8d4c1b988c0800000000000000
+      internalID: -3996467735305354036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_right_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488df77f0d161900800000000000000
+      internalID: 654742748103804995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_right_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd18b1d93cfb40c80800000000000000
+      internalID: -8357344161617444388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_right_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a382f0c06f6b25d90800000000000000
+      internalID: -7110419693784061894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_final_right_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b4ece6d7c216f80800000000000000
+      internalID: -8115156136303375554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_finall_downWall_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8008cd9d8a109cd0800000000000000
+      internalID: -2553511793179230068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_finall_downWall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0b30d57d63817b0800000000000000
+      internalID: -5253388666721292045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_finall_downWall_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb8dfce2147b9140800000000000000
+      internalID: 4727499858489740261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_finall_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91fc94c0956eaf50800000000000000
+      internalID: 6894559751999123867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_finall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e402374666a8e0800000000000000
+      internalID: -1682544954808407885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_finall_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be47629b62a3eb170800000000000000
+      internalID: 8196052309850354923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_up_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769d100dc548d600800000000000000
+      internalID: 493220905969620604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_up_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a9ff64cec331250800000000000000
+      internalID: 5914137721168697910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_up_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83385d6181178a30800000000000000
+      internalID: 4217358823638709134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_up_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed701d66c615baca0800000000000000
+      internalID: -6004616152145131554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_finall_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9923edd9ce7246270800000000000000
+      internalID: 8242757115209200281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_finall_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5440acf18117b4e0800000000000000
+      internalID: -1966083462337117090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_toLeft_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f09ff8b8d6de5a0800000000000000
+      internalID: -6490411041787670678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_toLeft_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33bb32ac5622150800000000000000
+      internalID: 5846347185137595342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_toLeft_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9040c197c134970800000000000000
+      internalID: 8737859008515541455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_toLeft_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85670276a594a2c90800000000000000
+      internalID: -7193856802144881064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_finall_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5a864f44d31f520800000000000000
+      internalID: 2734033815158171072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_toRight_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d0797d20b067bf0800000000000000
+      internalID: -327061816102941314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_toRight_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ee1ae9ff8ee6900800000000000000
+      internalID: 679736778355240489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_toRight_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a26498fff0f9ecd0800000000000000
+      internalID: -2528224733614021979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_toRight_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8645d2a05d8e63d0800000000000000
+      internalID: -3211474106799798645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_final_background
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b41b02fde250f3b0800000000000000
+      internalID: -5480789564588354377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_down_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a566b6bc1f69a9f0800000000000000
+      internalID: -456711718086220379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_down_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e331d7db3dfe9b0800000000000000
+      internalID: -5048583846458343800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_down_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25fe9064832b52e0800000000000000
+      internalID: -2136074546793482963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_finall_down_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fd160cc0efbfdf0800000000000000
+      internalID: -145243232238706849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_snow_background
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6f46526cc882f40800000000000000
+      internalID: 5703963710723520218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_marble_background
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab9f27b09f27170800000000000000
+      internalID: 8174870101199796975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_mesh_background
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7dc514035c2baf0800000000000000
+      internalID: -382026207327365176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_background
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cbde556fd4e85e0800000000000000
+      internalID: -1905499871932203924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_steel
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 61
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da01077adcffa690800000000000000
+      internalID: -7588568831866369325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_iron
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 61
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40ee0d9ebd926670800000000000000
+      internalID: 8530554086197485642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_rusty
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 44
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d3006bd95174b0800000000000000
+      internalID: -5444471675770644913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword_wooden
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9473fd36e0d37b7b0800000000000000
+      internalID: -5208627312016279735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_finall_empty
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08f35de951ecf10800000000000000
+      internalID: 2291793032304885953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_finall_full
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd5e8e2e520a5b0800000000000000
+      internalID: -5359241900070675698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_finall_closed
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd14ede53100de00800000000000000
+      internalID: 1067354442822852028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,6 +9,7 @@ public class portal : collidable
     {
         if(coll.name == "player")
         {
+            GameManager.instance.Save();
             string sceneName = sceneNames[Random.Range(0, sceneNames.Length)];
             UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
         }

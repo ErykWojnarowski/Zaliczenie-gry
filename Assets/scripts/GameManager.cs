@@ -8,7 +8,16 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
     private void Awake()
     {
+        if(GameManager.instance != null)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        
+        
         instance = this;
+        SceneManager.sceneLoaded += Load;
+        DontDestroyOnLoad(gameObject);
     }
 
     //zasoby 
@@ -28,5 +37,14 @@ public class GameManager : MonoBehaviour
     public void ShowText(string msg, int fontSize, Color color, Vector3 position, Vector3 motion, float duration)
     {
         TextManager.Show(msg, fontSize, color, position, motion, duration);
+    }
+    public void Save()
+    {
+        Debug.Log("Save");
+    }
+    public void Load(Scene l, LoadSceneMode mode)
+    {
+        
+        Debug.Log("Load");
     }
 }
