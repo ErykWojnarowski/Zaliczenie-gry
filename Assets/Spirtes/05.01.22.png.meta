@@ -904,7 +904,7 @@ TextureImporter:
     second: floor_marble_background
   - first:
       213: -382026207327365176
-    second: floor_mesh_background
+    second: stairs_snow_ToRight_wall_1
   - first:
       213: -1905499871932203924
     second: floor_cave_background
@@ -929,6 +929,411 @@ TextureImporter:
   - first:
       213: 1067354442822852028
     second: chest_finall_closed
+  - first:
+      213: 8926254409360890100
+    second: wall_snow_up_collumn_1
+  - first:
+      213: -3042897995822603225
+    second: wall_snow_up_collumn_2
+  - first:
+      213: 5685912706649581596
+    second: wall_snow_up_collumn_3
+  - first:
+      213: 3438076443727157551
+    second: wall_marble_up_collumn_1
+  - first:
+      213: 4939810461873868542
+    second: wall_marble_up_collumn_2
+  - first:
+      213: -79393937843942683
+    second: wall_marble_up_collumn_3
+  - first:
+      213: -2048817378015655437
+    second: wall_mesh_up_collumn_1
+  - first:
+      213: 6969527361022584861
+    second: wall_mesh_up_collumn_2
+  - first:
+      213: 4480950639134238708
+    second: wall_mesh_up_collumn_3
+  - first:
+      213: -149482728319849664
+    second: wall_cave_up_collumn_1
+  - first:
+      213: 6630393619874088034
+    second: wall_cave_up_collumn_2
+  - first:
+      213: -1961570117377046895
+    second: wall_cave_up_collumn_3
+  - first:
+      213: -5094275505030163301
+    second: wall_finall_up_collumn_1
+  - first:
+      213: -3087123306634582452
+    second: wall_finall_up_collumn_2
+  - first:
+      213: 4913878918101798263
+    second: wall_finall_up_collumn_3
+  - first:
+      213: 6416952394484346732
+    second: portal_mesh-to-marble_1
+  - first:
+      213: -6111638247422290796
+    second: portal_mesh-to-finall_1
+  - first:
+      213: -7946800706403977710
+    second: portal_mesh-to-cave_1
+  - first:
+      213: -3080080870517522025
+    second: portal_mesh-to-home_1
+  - first:
+      213: -1746726117752991733
+    second: portal_mesh-to-home_2
+  - first:
+      213: -8731001848878867806
+    second: portal_mesh-to-home_3
+  - first:
+      213: -9059066222165752156
+    second: portal_mesh-to-home_4
+  - first:
+      213: -6263521241495849673
+    second: portal_mesh-to-marble_2
+  - first:
+      213: -8230965804308876306
+    second: portal_mesh-to-marble_3
+  - first:
+      213: 1507384132359208944
+    second: portal_mesh-to-marble_4
+  - first:
+      213: -8284544489127835499
+    second: portal_mesh-to-finall_2
+  - first:
+      213: 1475830966240958532
+    second: portal_mesh-to-finall_3
+  - first:
+      213: 3804279484700177763
+    second: portal_mesh-to-finall_4
+  - first:
+      213: -1896984947648709375
+    second: portal_mesh-to-cave_2
+  - first:
+      213: -8355052881920922922
+    second: portal_mesh-to-cave_3
+  - first:
+      213: -6256995321504714797
+    second: portal_mesh-to-cave_4
+  - first:
+      213: -3923379865751315324
+    second: portal_marble-to-cave_1
+  - first:
+      213: 5469559168551359879
+    second: portal_marble-to-snow_1
+  - first:
+      213: -3090707068772766449
+    second: portal_marble-to-mesh_1
+  - first:
+      213: 6255942655657479658
+    second: portal_marble-to-home_1
+  - first:
+      213: 838241561589520443
+    second: portal_marble-to-home_2
+  - first:
+      213: 6789179401520209455
+    second: portal_marble-to-home_3
+  - first:
+      213: 4856254331811556222
+    second: portal_marble-to-home_4
+  - first:
+      213: 3775074000668492261
+    second: portal_marble-to-cave_2
+  - first:
+      213: -1141100953880167556
+    second: portal_marble-to-cave_3
+  - first:
+      213: 2080156372066568880
+    second: portal_marble-to-cave_4
+  - first:
+      213: -1923954485531603397
+    second: portal_marble-to-snow_2
+  - first:
+      213: 7584602150311840826
+    second: portal_marble-to-snow_3
+  - first:
+      213: -5205295495512552181
+    second: portal_marble-to-snow_4
+  - first:
+      213: -3907775372554625851
+    second: portal_marble-to-mesh_2
+  - first:
+      213: 2929943859724389359
+    second: portal_marble-to-mesh_3
+  - first:
+      213: -7556284918509283257
+    second: portal_marble-to-mesh_4
+  - first:
+      213: 3108451635395539627
+    second: portal_snow-to-mesh_1
+  - first:
+      213: 2912254393248425474
+    second: portal_snow-to-marble_1
+  - first:
+      213: -2862234645742953370
+    second: portal_snow-to-finall_1
+  - first:
+      213: 3590130360743980085
+    second: portal_snow-to-home_1
+  - first:
+      213: -814244139124993125
+    second: portal_snow-to-home_2
+  - first:
+      213: -8234023380308403038
+    second: portal_snow-to-home_3
+  - first:
+      213: -8598370840422315985
+    second: portal_snow-to-home_4
+  - first:
+      213: 8579727227481588371
+    second: portal_snow-to-mesh_2
+  - first:
+      213: -6680469325323161161
+    second: portal_snow-to-mesh_3
+  - first:
+      213: 2482060902721817733
+    second: portal_snow-to-mesh_4
+  - first:
+      213: 4933922844574880601
+    second: portal_snow-to-marble_2
+  - first:
+      213: 7942528534663560200
+    second: portal_snow-to-marble_3
+  - first:
+      213: 2971247488695882396
+    second: portal_snow-to-marble_4
+  - first:
+      213: -836810367640893350
+    second: portal_snow-to-finall_2
+  - first:
+      213: -7485710224352048276
+    second: portal_snow-to-finall_3
+  - first:
+      213: -5051801378052532285
+    second: portal_snow-to-finall_4
+  - first:
+      213: 8183565707898089217
+    second: portal_cave-to-mesh_1
+  - first:
+      213: 4770577368911892015
+    second: portal_cave-to-snow_1
+  - first:
+      213: -8044630725535317846
+    second: portal_cave-to-finall_1
+  - first:
+      213: 7088160552531583864
+    second: portal_cave-to-home_1
+  - first:
+      213: 1764914756948702950
+    second: portal_cave-to-mesh_2
+  - first:
+      213: -7625132883787049167
+    second: portal_cave-to-mesh_3
+  - first:
+      213: -2693698711979517572
+    second: portal_cave-to-mesh_4
+  - first:
+      213: -4037276626389067837
+    second: portal_cave-to-home_2
+  - first:
+      213: -4717973464515195313
+    second: portal_cave-to-home_3
+  - first:
+      213: 2293944256932728285
+    second: portal_cave-to-home_4
+  - first:
+      213: -5619061820442315942
+    second: portal_cave-to-snow_2
+  - first:
+      213: 7174676754658348869
+    second: portal_cave-to-snow_3
+  - first:
+      213: 7160035375495198300
+    second: portal_cave-to-snow_4
+  - first:
+      213: -7282945703109665195
+    second: portal_cave-to-finall_2
+  - first:
+      213: 8404234359759318061
+    second: portal_cave-to-finall_3
+  - first:
+      213: 8165814102073516485
+    second: portal_cave-to-finall_4
+  - first:
+      213: 2213140025838854682
+    second: portal_finall-to-home_1
+  - first:
+      213: 6929108086848848124
+    second: portal_finall-to-home_2
+  - first:
+      213: -4826518625113256534
+    second: portal_finall-to-home_3
+  - first:
+      213: -1459559497507592740
+    second: portal_finall-to-home_4
+  - first:
+      213: -3197786623393413672
+    second: floor_home_1
+  - first:
+      213: 1764328270806472457
+    second: floor_home_2
+  - first:
+      213: 977245406000497347
+    second: floor_home_3
+  - first:
+      213: -8219825552658896935
+    second: floor_home_4
+  - first:
+      213: -8519027834852389826
+    second: floor_home_5
+  - first:
+      213: -6551232391256841421
+    second: floor_home_6
+  - first:
+      213: 8207414493904833668
+    second: floor_home_7
+  - first:
+      213: 126483199222003915
+    second: floor_home_8
+  - first:
+      213: -4136361232422447549
+    second: floor_home_9
+  - first:
+      213: -6841149179928448323
+    second: Column_snow_1v2
+  - first:
+      213: 1273933427573993052
+    second: Column_snow_2v2
+  - first:
+      213: 1101414856227080444
+    second: Column_snow_3v2
+  - first:
+      213: 1127275946403767657
+    second: Column_marble_1v2
+  - first:
+      213: -4314753989496858823
+    second: Column_marble_2v2
+  - first:
+      213: 2686564708434641213
+    second: Column_marble_3v2
+  - first:
+      213: 4348838707232202006
+    second: column_mesh_1v2
+  - first:
+      213: 6438627879329029369
+    second: column_mesh_2v2
+  - first:
+      213: -7361184768962655151
+    second: column_mesh_3v2
+  - first:
+      213: -3062890508873730900
+    second: column_cave_1v2
+  - first:
+      213: -5506281862505642786
+    second: column_cave_2v2
+  - first:
+      213: -114456835059271580
+    second: column_cave_3v2
+  - first:
+      213: -3902343484966091895
+    second: column_finall_1v2
+  - first:
+      213: -8622783158305787206
+    second: column_finall_2v2
+  - first:
+      213: 8515010535055152708
+    second: column_finall_3v2
+  - first:
+      213: 3658527141610565145
+    second: chest_marble_full
+  - first:
+      213: 3511428658409060614
+    second: chest_marble_empty
+  - first:
+      213: -6346998029202117136
+    second: chest_marble_closed
+  - first:
+      213: 8612458025380735008
+    second: chest_cave_full
+  - first:
+      213: 4437519414187904302
+    second: chest_cave_empty
+  - first:
+      213: 3781785394569912460
+    second: chest_cave_closed
+  - first:
+      213: -4360102063360015930
+    second: wall_mesh_right_6
+  - first:
+      213: 3429204412659035260
+    second: wall_mesh_right_7
+  - first:
+      213: 906581316966648434
+    second: stairs_snow_ToRight_wall_1
+  - first:
+      213: -4350963099477146955
+    second: stairs_snow_ToRight_wall_2
+  - first:
+      213: -5639096527467282710
+    second: stairs_snow_ToLeft_wall_1
+  - first:
+      213: -957983405526188788
+    second: stairs_snow_ToLeft_wall_2
+  - first:
+      213: 2801793950297096645
+    second: stairs_marble_ToRight_wall_1
+  - first:
+      213: -9143792455665943468
+    second: stairs_marble_ToRight_wall_2
+  - first:
+      213: -2424166880938142824
+    second: stairs_marble_ToLeft_wall_1
+  - first:
+      213: 6216150911652359888
+    second: stairs_marble_ToLeft_wall_2
+  - first:
+      213: 7496681516810972322
+    second: stairs_mesh_ToRight_wall_1
+  - first:
+      213: 8347625360469829103
+    second: 05.01.22_433
+  - first:
+      213: 4808636769901566516
+    second: 05.01.22_434
+  - first:
+      213: -8438201215171850275
+    second: stairs_marble_ToRigh_wall_1
+  - first:
+      213: -2950395220020724993
+    second: stairs_marble_ToRig_wall_1
+  - first:
+      213: 9139504032670604953
+    second: stairs_marble_ToRi_wall_1
+  - first:
+      213: 8000768747013014772
+    second: 05.01.22_438
+  - first:
+      213: -5280979871365207516
+    second: 05.01.22_439
+  - first:
+      213: -2624016421988483481
+    second: stairs_marble_ToR_wall_1
+  - first:
+      213: -524388524395797245
+    second: 05.01.22_441
+  - first:
+      213: -841462758036711194
+    second: stairs_marble_ToLef_wall_1
+  - first:
+      213: -3174689881982415352
+    second: 05.01.22_443
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -7318,27 +7723,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: floor_mesh_background
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 232
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c7dc514035c2baf0800000000000000
-      internalID: -382026207327365176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: floor_cave_background
       rect:
         serializedVersion: 2
@@ -7502,6 +7886,2862 @@ TextureImporter:
       bones: []
       spriteID: cbd14ede53100de00800000000000000
       internalID: 1067354442822852028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up_collumn_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f858bc871d60eb70800000000000000
+      internalID: 8926254409360890100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up_collumn_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ee3f056475c5d0800000000000000
+      internalID: -3042897995822603225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_snow_up_collumn_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186abf3b7b68ee40800000000000000
+      internalID: 5685912706649581596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up_collumn_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29def25f4086bf20800000000000000
+      internalID: 3438076443727157551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up_collumn_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe00cd517bbd8440800000000000000
+      internalID: 4939810461873868542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_marble_up_collumn_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea0e7952afe5eef0800000000000000
+      internalID: -79393937843942683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up_collumn_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9cab523732193e0800000000000000
+      internalID: -2048817378015655437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up_collumn_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ed1e653cb8b060800000000000000
+      internalID: 6969527361022584861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_up_collumn_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7e7ad7dd88f2e30800000000000000
+      internalID: 4480950639134238708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up_collumn_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b6076204eecedf0800000000000000
+      internalID: -149482728319849664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up_collumn_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2648c913ed3e30c50800000000000000
+      internalID: 6630393619874088034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_cave_up_collumn_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19648bffe5a17c4e0800000000000000
+      internalID: -1961570117377046895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_up_collumn_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9414b63b6f7d49b0800000000000000
+      internalID: -5094275505030163301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_up_collumn_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46673a75b55825d0800000000000000
+      internalID: -3087123306634582452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_finall_up_collumn_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d0db657da913440800000000000000
+      internalID: 4913878918101798263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-marble_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fe4dd44389d0950800000000000000
+      internalID: 6416952394484346732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-finall_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49414b215691f2ba0800000000000000
+      internalID: -6111638247422290796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-cave_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b7f98cda47b190800000000000000
+      internalID: -7946800706403977710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-home_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791c35964ca5145d0800000000000000
+      internalID: -3080080870517522025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-home_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b009f67b9d162c7e0800000000000000
+      internalID: -1746726117752991733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-home_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aadb48c31045d680800000000000000
+      internalID: -8731001848878867806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-home_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60217944bb74280800000000000000
+      internalID: -9059066222165752156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-marble_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735b68dcd908319a0800000000000000
+      internalID: -6263521241495849673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-marble_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee338c3e53cb5cd80800000000000000
+      internalID: -8230965804308876306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-marble_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb455c1ed4be410800000000000000
+      internalID: 1507384132359208944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-finall_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988d973ea2670d80800000000000000
+      internalID: -8284544489127835499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-finall_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448505bc1743b7410800000000000000
+      internalID: 1475830966240958532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-finall_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3653cdf09048bc430800000000000000
+      internalID: 3804279484700177763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-cave_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db223ad3e8ca5e0800000000000000
+      internalID: -1896984947648709375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-cave_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daef7dbba3ec0c80800000000000000
+      internalID: -8355052881920922922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_mesh-to-cave_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2e64f7efaa29a0800000000000000
+      internalID: -6256995321504714797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-cave_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c19fe8cca5d89c0800000000000000
+      internalID: -3923379865751315324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-snow_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851c77b517c7eb40800000000000000
+      internalID: 5469559168551359879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-mesh_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da205db4a9b15d0800000000000000
+      internalID: -3090707068772766449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-home_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8dad23b291d650800000000000000
+      internalID: 6255942655657479658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-home_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b381382524802ab00800000000000000
+      internalID: 838241561589520443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-home_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed200f1b2083e50800000000000000
+      internalID: 6789179401520209455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-home_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6492d591e46340800000000000000
+      internalID: 4856254331811556222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-cave_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e188aa6dc1c36430800000000000000
+      internalID: 3775074000668492261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-cave_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bfc1f6abef920f0800000000000000
+      internalID: -1141100953880167556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-cave_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0b4203333edc10800000000000000
+      internalID: 2080156372066568880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-snow_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e8ed5c69dbc45e0800000000000000
+      internalID: -1923954485531603397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-snow_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c4004887be14960800000000000000
+      internalID: 7584602150311840826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-snow_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d880f535313c7b0800000000000000
+      internalID: -5205295495512552181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-mesh_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9cd0c00bc4c9c0800000000000000
+      internalID: -3907775372554625851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-mesh_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb85baba6049a820800000000000000
+      internalID: 2929943859724389359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_marble-to-mesh_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748dc9ac6eea22790800000000000000
+      internalID: -7556284918509283257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-mesh_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2bb390b40732b20800000000000000
+      internalID: 3108451635395539627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-marble_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206a42dd0f76a6820800000000000000
+      internalID: 2912254393248425474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-finall_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cdca421cc4748d0800000000000000
+      internalID: -2862234645742953370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-home_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c6d71ba84b2d130800000000000000
+      internalID: 3590130360743980085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-home_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d20ff44933b4f0800000000000000
+      internalID: -814244139124993125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-home_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd4708c5fdabd80800000000000000
+      internalID: -8234023380308403038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-home_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f280d89d6437ca880800000000000000
+      internalID: -8598370840422315985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-mesh_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39289cfb470511770800000000000000
+      internalID: 8579727227481588371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-mesh_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b138331b843a43a0800000000000000
+      internalID: -6680469325323161161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-mesh_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8e919d3d027220800000000000000
+      internalID: 2482060902721817733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-marble_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9531214afa0d87440800000000000000
+      internalID: 4933922844574880601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-marble_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c7607fe97893e60800000000000000
+      internalID: 7942528534663560200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-marble_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c925d7f39ddfb3920800000000000000
+      internalID: 2971247488695882396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-finall_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58866c776d0364f0800000000000000
+      internalID: -836810367640893350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-finall_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8cf1463a6d1890800000000000000
+      internalID: -7485710224352048276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_snow-to-finall_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c79959896564e9b0800000000000000
+      internalID: -5051801378052532285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-mesh_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f655727add19170800000000000000
+      internalID: 8183565707898089217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-snow_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec28767de743240800000000000000
+      internalID: 4770577368911892015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-finall_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa046473afabb5090800000000000000
+      internalID: -8044630725535317846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-home_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e494c7743e5260800000000000000
+      internalID: 7088160552531583864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-mesh_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6b5cade9c3e7810800000000000000
+      internalID: 1764914756948702950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-mesh_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13719b8ba061e2690800000000000000
+      internalID: -7625132883787049167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-mesh_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7998841b4f0e9ad0800000000000000
+      internalID: -2693698711979517572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-home_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c797187c46b8f7c0800000000000000
+      internalID: -4037276626389067837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-home_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4ad38124668eb0800000000000000
+      internalID: -4717973464515195313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-home_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc509d52ab5df10800000000000000
+      internalID: 2293944256932728285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-snow_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53739d9b051502b0800000000000000
+      internalID: -5619061820442315942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-snow_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fc9abce72919360800000000000000
+      internalID: 7174676754658348869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-snow_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c563f9f0d3e8d5360800000000000000
+      internalID: 7160035375495198300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-finall_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ed0bf3877cdea90800000000000000
+      internalID: -7282945703109665195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-finall_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c26966f96d1a470800000000000000
+      internalID: 8404234359759318061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_cave-to-finall_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1a7f759acc25170800000000000000
+      internalID: 8165814102073516485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_finall-to-home_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e256b027a6be10800000000000000
+      internalID: 2213140025838854682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_finall-to-home_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf089eec713292060800000000000000
+      internalID: 6929108086848848124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_finall-to-home_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad4158e1e2c40db0800000000000000
+      internalID: -4826518625113256534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_finall-to-home_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5238ebe5a9ebbe0800000000000000
+      internalID: -1459559497507592740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5c325320e2f93d0800000000000000
+      internalID: -3197786623393413672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9075998e6372c7810800000000000000
+      internalID: 1764328270806472457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ca03e48fdf8d00800000000000000
+      internalID: 977245406000497347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7661ad5305ded80800000000000000
+      internalID: -8219825552658896935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c45f7e15556c980800000000000000
+      internalID: -8519027834852389826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3336a1e99d85515a0800000000000000
+      internalID: -6551232391256841421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c07995ff796e170800000000000000
+      internalID: 8207414493904833668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8beafaccb51c100800000000000000
+      internalID: 126483199222003915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_home_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34653cedf51b896c0800000000000000
+      internalID: -4136361232422447549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_snow_1v2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 453
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2f8ea111b5f01a0800000000000000
+      internalID: -6841149179928448323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_snow_2v2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2b0ae3bbeda110800000000000000
+      internalID: 1273933427573993052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_snow_3v2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8c0c7e9f2094f00800000000000000
+      internalID: 1101414856227080444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_marble_1v2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9652d3d2083e4af00800000000000000
+      internalID: 1127275946403767657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_marble_2v2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 385
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93717da6b1aee14c0800000000000000
+      internalID: -4314753989496858823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Column_marble_3v2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3109584e58984520800000000000000
+      internalID: 2686564708434641213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_mesh_1v2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d5b0a53cd2a5c30800000000000000
+      internalID: 4348838707232202006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_mesh_2v2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc555461f99a5950800000000000000
+      internalID: 6438627879329029369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_mesh_3v2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c07ff2471d7d990800000000000000
+      internalID: -7361184768962655151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_cave_1v2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 198
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca47aa06f4d6e75d0800000000000000
+      internalID: -3062890508873730900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_cave_2v2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4cc20d1d1c593b0800000000000000
+      internalID: -5506281862505642786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_cave_3v2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4683d2c6d1e596ef0800000000000000
+      internalID: -114456835059271580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_finall_1v2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834903a64718d9c0800000000000000
+      internalID: -3902343484966091895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_finall_2v2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab276f92768b55880800000000000000
+      internalID: -8622783158305787206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: column_finall_3v2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446dba897f46b2670800000000000000
+      internalID: 8515010535055152708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_marble_full
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ea2d43d03b5c230800000000000000
+      internalID: 3658527141610565145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_marble_empty
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609399ea2c91bb030800000000000000
+      internalID: 3511428658409060614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_marble_closed
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdad479beeeae7a0800000000000000
+      internalID: -6346998029202117136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_cave_full
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e7cd71f8958770800000000000000
+      internalID: 8612458025380735008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_cave_empty
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc19e656c359d30800000000000000
+      internalID: 4437519414187904302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_cave_closed
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80a91497c99b7430800000000000000
+      internalID: 3781785394569912460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_right_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c18af0364ecd73c0800000000000000
+      internalID: -4360102063360015930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_mesh_right_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c6ebe9e3bf69f20800000000000000
+      internalID: 3429204412659035260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_mesh_background
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a8dcd87e2d49c00800000000000000
+      internalID: 906581316966648434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToRight_wall_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7dc514035c2baf0800000000000000
+      internalID: -382026207327365176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToRight_wall_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b205d80d164e93c0800000000000000
+      internalID: -4350963099477146955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToLeft_wall_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee7c22e597edb1b0800000000000000
+      internalID: -5639096527467282710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_snow_ToLeft_wall_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d74e41b2f84b2f0800000000000000
+      internalID: -957983405526188788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToRight_wall_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10c45d0c8f1e620800000000000000
+      internalID: 2801793950297096645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToRight_wall_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c722c1539ba1180800000000000000
+      internalID: -9143792455665943468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToLeft_wall_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8935a69c011ab5ed0800000000000000
+      internalID: -2424166880938142824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToLeft_wall_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 334
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de624fc154344650800000000000000
+      internalID: 6216150911652359888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_mesh_ToRight_wall_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac21c3de10990860800000000000000
+      internalID: 7496681516810972322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.01.22_433
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5a8d8a909b8d370800000000000000
+      internalID: 8347625360469829103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.01.22_434
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a5ddb3aa5bbb240800000000000000
+      internalID: 4808636769901566516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToRigh_wall_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 232
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf896ac3bc75ea80800000000000000
+      internalID: -8438201215171850275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToRig_wall_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa77a3ed271e07d0800000000000000
+      internalID: -2950395220020724993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToRi_wall_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed49a9e7a06de70800000000000000
+      internalID: 9139504032670604953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.01.22_438
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f402c719c0780f60800000000000000
+      internalID: 8000768747013014772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.01.22_439
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae94d69c036b6b0800000000000000
+      internalID: -5280979871365207516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToR_wall_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eb59287fe959bd0800000000000000
+      internalID: -2624016421988483481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.01.22_441
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305e8175a6ff8b8f0800000000000000
+      internalID: -524388524395797245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairs_marble_ToLef_wall_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8508f64168254f0800000000000000
+      internalID: -841462758036711194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.01.22_443
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e49606f5c31f3d0800000000000000
+      internalID: -3174689881982415352
       vertices: []
       indices: 
       edges: []
