@@ -69,10 +69,24 @@
     <Compile Include="Assets\scripts\collactable.cs" />
     <Compile Include="Assets\scripts\mover.cs" />
     <Compile Include="Assets\scripts\collidable.cs" />
-    <Compile Include="Assets\scripts\player.cs" />
     <Compile Include="Assets\scripts\enemyHit.cs" />
+    <Compile Include="Assets\scripts\player.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\fonts\Nunito\OFL.txt" />
+     <None Include="Assets\fonts\Rubik\OFL.txt" />
+     <None Include="Assets\fonts\Inconsolata\OFL.txt" />
+     <None Include="Assets\fonts\Cabin\README.txt" />
+     <None Include="Assets\fonts\Rubik\README.txt" />
+     <None Include="Assets\fonts\Nunito\README.txt" />
+     <None Include="Assets\fonts\VT323\OFL.txt" />
+     <None Include="Assets\fonts\Pacifico\OFL.txt" />
+     <None Include="Assets\fonts\Cabin\OFL.txt" />
+     <None Include="Assets\fonts\OFL.txt" />
+     <None Include="Assets\fonts\Quicksand\README.txt" />
+     <None Include="Assets\fonts\Nunito_Sans\OFL.txt" />
+     <None Include="Assets\fonts\Quicksand\OFL.txt" />
+     <None Include="Assets\fonts\Inconsolata\README.txt" />
     <Reference Include="UnityEngine">
       <HintPath>F:\unity\2020.3.4f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
