@@ -1334,6 +1334,18 @@ TextureImporter:
   - first:
       213: -3174689881982415352
     second: 05.01.22_443
+  - first:
+      213: 5597428425186838789
+    second: portal_finall-to-mesh_1
+  - first:
+      213: 7581686650143867692
+    second: portal_finall-to-mesh_2
+  - first:
+      213: 365195853006611991
+    second: portal_finall-to-mesh_3
+  - first:
+      213: 9000597134862006176
+    second: portal_finall-to-mesh_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -10742,6 +10754,90 @@ TextureImporter:
       bones: []
       spriteID: 80e49606f5c31f3d0800000000000000
       internalID: -3174689881982415352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_finall-to-mesh_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5098fea0f7f0ead40800000000000000
+      internalID: 5597428425186838789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_finall-to-mesh_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23852cb6df873960800000000000000
+      internalID: 7581686650143867692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_finall-to-mesh_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716a7e381bf611500800000000000000
+      internalID: 365195853006611991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_finall-to-mesh_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a739dd286b88ec70800000000000000
+      internalID: 9000597134862006176
       vertices: []
       indices: 
       edges: []

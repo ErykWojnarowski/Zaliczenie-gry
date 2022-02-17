@@ -71,6 +71,7 @@
     <Compile Include="Assets\scripts\collidable.cs" />
     <Compile Include="Assets\scripts\enemyHit.cs" />
     <Compile Include="Assets\scripts\player.cs" />
+    <Compile Include="Assets\scripts\Menu.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\fonts\Nunito\OFL.txt" />

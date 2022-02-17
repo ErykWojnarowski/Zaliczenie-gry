@@ -15,13 +15,13 @@ D:/silniki gier/Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53484
+59054
 Successfully changed project path to: D:/silniki gier/Game
 D:/silniki gier/Game
 Using Asset Import Pipeline V2.
 Default GameObject BitMask: background already registered
 
-Refreshing native plugins compatible for Editor in 43.91 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 61.73 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
 [Subsystems] Discovering subsystems at path F:/unity/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -37,31 +37,31 @@ Initialize mono
 Mono path[0] = 'F:/unity/2020.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'F:/unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'F:/unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56888
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: F:/unity/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001295 seconds.
+Registered in 0.054355 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 45.33 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 48.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.387 seconds
+- Completed reload, in  6.441 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000931 seconds.
+Registered in 0.135637 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 45.07 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 46.69 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.090 seconds
+- Completed reload, in  1.544 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Default GameObject BitMask: background already registered
 
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
 Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1823 Unused Serialized files (Serialized files now loaded: 0)
@@ -69,1389 +69,1043 @@ System memory in use before: 85.4 MB.
 System memory in use after: 85.4 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2267.
-Total: 2.632100 ms (FindLiveObjects: 0.322400 ms CreateObjectMapping: 0.087500 ms MarkObjects: 2.065900 ms  DeleteObjects: 0.154800 ms)
+Total: 2.387600 ms (FindLiveObjects: 0.227500 ms CreateObjectMapping: 0.063100 ms MarkObjects: 1.947500 ms  DeleteObjects: 0.148200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Spirtes/Upgrade.png
-  artifactKey: Guid(f5a67291bd9c4c943bdb0ece7962ad74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Spirtes/Upgrade.png using Guid(f5a67291bd9c4c943bdb0ece7962ad74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe83de0cbb2482a41fa898fea26d79b') in 0.175444 seconds
-  Import took 0.178558 seconds .
+  path: Assets/Spirtes/Tiles/cosmos
+  artifactKey: Guid(81d5d7895e7030b41be79d74aa195834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirtes/Tiles/cosmos using Guid(81d5d7895e7030b41be79d74aa195834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb44ffc8c883a97a904563caac543bcd') in 0.048940 seconds
+  Import took 0.068492 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 322.823935 seconds.
-  path: Assets/fonts
-  artifactKey: Guid(576b72cb2c07d0c4aa981d10aab24842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts using Guid(576b72cb2c07d0c4aa981d10aab24842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e50bbe7317954b713afbba78090c54') in 0.004125 seconds
-  Import took 0.014401 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.110057 seconds.
-  path: Assets/fonts/Cabin,Inconsolata,Nunito,Nunito_Sans,Pacifico,etc.zip
-  artifactKey: Guid(c12d0620c88391d48af098c3503d4a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin,Inconsolata,Nunito,Nunito_Sans,Pacifico,etc.zip using Guid(c12d0620c88391d48af098c3503d4a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c28a2c930ff81bf5a12d97d4a1327f3') in 0.007845 seconds
-  Import took 0.010955 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 44.875777 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Light.ttf
-  artifactKey: Guid(42ca0a70e96d3ea4b836573e48fb7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Light.ttf using Guid(42ca0a70e96d3ea4b836573e48fb7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d5bcb9a3d849e36d3a87726f89868a') in 0.101094 seconds
-  Import took 0.104326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-ExtraLight.ttf
-  artifactKey: Guid(8d63c7c315c104041a8c7319426df52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-ExtraLight.ttf using Guid(8d63c7c315c104041a8c7319426df52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30422d488eed8bde1171e61758ab72c4') in 0.012548 seconds
-  Import took 0.015731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/fonts/Quicksand/static/Quicksand-Medium.ttf
-  artifactKey: Guid(cdec892e03ded20468b894efaf1e3ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Quicksand/static/Quicksand-Medium.ttf using Guid(cdec892e03ded20468b894efaf1e3ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce584eaa88d63ebf0ca7cf25276d749') in 0.012417 seconds
-  Import took 0.015771 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-SemiBoldItalic.ttf
-  artifactKey: Guid(17d9149e295ba5e4daf929e1f8fec5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-SemiBoldItalic.ttf using Guid(17d9149e295ba5e4daf929e1f8fec5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '513b4b3cfeb208474775d4467443c94f') in 0.013414 seconds
-  Import took 0.016797 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Light.ttf
-  artifactKey: Guid(0dff81619d2146b4688a50ec28a4faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Light.ttf using Guid(0dff81619d2146b4688a50ec28a4faca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55bae09fb1e0492ca6c477a6a334a61') in 0.012330 seconds
-  Import took 0.015247 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-Regular.ttf
-  artifactKey: Guid(820cad12924e04245a43cf80e4394162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-Regular.ttf using Guid(820cad12924e04245a43cf80e4394162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd9b4b4b184d35b1b5f87aa96b0bb395') in 0.012252 seconds
-  Import took 0.015731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/fonts/VT323/VT323-Regular.ttf
-  artifactKey: Guid(ea0c82086732b7449bef9499b931de6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/VT323/VT323-Regular.ttf using Guid(ea0c82086732b7449bef9499b931de6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9045741e9ac1877bf64a8749026bd864') in 0.013538 seconds
-  Import took 0.016917 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Medium.ttf
-  artifactKey: Guid(d3768620259fbc643ab6788646d99b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Medium.ttf using Guid(d3768620259fbc643ab6788646d99b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f658740fbcf88a8d7c5f78b2849e0286') in 0.012181 seconds
-  Import took 0.015115 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-ExtraBoldItalic.ttf
-  artifactKey: Guid(6df1b1b689fb549499223a13c49f8b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-ExtraBoldItalic.ttf using Guid(6df1b1b689fb549499223a13c49f8b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee7da3ea1d4c1452b0a02b4d94eca734') in 0.011545 seconds
-  Import took 0.014738 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-Italic.ttf
-  artifactKey: Guid(803fb0c851625af42a537944c3b9c8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-Italic.ttf using Guid(803fb0c851625af42a537944c3b9c8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88e94f22a01b565c8a03ce12be4d0d8') in 0.012048 seconds
-  Import took 0.015466 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/fonts/Rubik/Rubik-VariableFont_wght.ttf
-  artifactKey: Guid(a82fd107a4dc1374c8462807419771e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/Rubik-VariableFont_wght.ttf using Guid(a82fd107a4dc1374c8462807419771e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4345d17a76e7d2a5b53348dc7d80c122') in 0.011395 seconds
-  Import took 0.014734 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Regular.ttf
-  artifactKey: Guid(5ff57f151b71a96419b9d09d48125203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Regular.ttf using Guid(5ff57f151b71a96419b9d09d48125203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77395cebb7e143bbe11f0e114133a25b') in 0.012258 seconds
-  Import took 0.015671 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-ExtraLight.ttf
-  artifactKey: Guid(ba0e064780ed1d843b06a989b7531379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-ExtraLight.ttf using Guid(ba0e064780ed1d843b06a989b7531379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564e98fce9d0561c4155f2e5ad228c36') in 0.011307 seconds
-  Import took 0.014420 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-SemiBoldItalic.ttf
-  artifactKey: Guid(be39e89bbc065c74888f7546f9921787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-SemiBoldItalic.ttf using Guid(be39e89bbc065c74888f7546f9921787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2357c57eaa34a2f487de5024ee900e') in 0.012707 seconds
-  Import took 0.015932 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000397 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-BlackItalic.ttf
-  artifactKey: Guid(ba0fd4dd54bb6024b9250a0508d89ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-BlackItalic.ttf using Guid(ba0fd4dd54bb6024b9250a0508d89ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc4c1409c3aaf42637f694d9ac2c64aa') in 0.012188 seconds
-  Import took 0.015331 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-ExtraBold.ttf
-  artifactKey: Guid(18a138d8b353533469ab3ea8db62de3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-ExtraBold.ttf using Guid(18a138d8b353533469ab3ea8db62de3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98845c2a9753c518f4cfa78f201cae2e') in 0.012766 seconds
-  Import took 0.015742 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-Italic.ttf
-  artifactKey: Guid(64c61055cc25dda4c9ed7d8ea3ec7315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-Italic.ttf using Guid(64c61055cc25dda4c9ed7d8ea3ec7315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba134070baebef13e6043f5cf3c4f08') in 0.012308 seconds
-  Import took 0.015593 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-BoldItalic.ttf
-  artifactKey: Guid(acb4950cb2563e64d8c58debc9afc596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-BoldItalic.ttf using Guid(acb4950cb2563e64d8c58debc9afc596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94b40d6054590064213c69ab3ba3031') in 0.011545 seconds
-  Import took 0.014683 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-BlackItalic.ttf
-  artifactKey: Guid(71f05878dabfc7c4bae38ac6cafcd721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-BlackItalic.ttf using Guid(71f05878dabfc7c4bae38ac6cafcd721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938044ade540a2966826d0a2f6c798d3') in 0.013257 seconds
-  Import took 0.016200 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-Bold.ttf
-  artifactKey: Guid(5e5200b75ee036b4eb437b40ba65157a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-Bold.ttf using Guid(5e5200b75ee036b4eb437b40ba65157a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26176af6ff909c9c9a25154dd7a1198b') in 0.012725 seconds
-  Import took 0.016046 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-Bold.ttf
-  artifactKey: Guid(96e0ae34104537049af9f194dbd59025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-Bold.ttf using Guid(96e0ae34104537049af9f194dbd59025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289e40731799a6ede839bd70d4b3fbcb') in 0.011932 seconds
-  Import took 0.015061 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-Black.ttf
-  artifactKey: Guid(047bf084e3358c64d95f39f072cd9a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-Black.ttf using Guid(047bf084e3358c64d95f39f072cd9a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '557776123a6a0ea683c3d3fac9654f12') in 0.011810 seconds
-  Import took 0.014958 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-ExtraLightItalic.ttf
-  artifactKey: Guid(16122a0c57ed0e0468f1d48bb2001ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-ExtraLightItalic.ttf using Guid(16122a0c57ed0e0468f1d48bb2001ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3c693b863642cc1388a50d12857a7d') in 0.012265 seconds
-  Import took 0.015561 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/fonts/Quicksand/static/Quicksand-SemiBold.ttf
-  artifactKey: Guid(9467753f6d5fd6141998cd1b985df679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Quicksand/static/Quicksand-SemiBold.ttf using Guid(9467753f6d5fd6141998cd1b985df679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977e941ee9e20495a1abbc3777eff264') in 0.012349 seconds
-  Import took 0.015399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-ExtraBold.ttf
-  artifactKey: Guid(fd92b4cc33f93a94faf745ba70ac8988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-ExtraBold.ttf using Guid(fd92b4cc33f93a94faf745ba70ac8988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c52e2db22e66b86f428ed133253d26') in 0.012372 seconds
-  Import took 0.015600 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-BlackItalic.ttf
-  artifactKey: Guid(cdec2bb5159bf224bacc3568d31f7de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-BlackItalic.ttf using Guid(cdec2bb5159bf224bacc3568d31f7de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c2d6a3cc5cd6351075b35142276644') in 0.012656 seconds
-  Import took 0.016067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-Light.ttf
-  artifactKey: Guid(37a2f263182879248b14a3c4f49bccb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-Light.ttf using Guid(37a2f263182879248b14a3c4f49bccb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676feb068b09397fe3182823ea0c51d8') in 0.011623 seconds
-  Import took 0.014810 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-Light.ttf
-  artifactKey: Guid(4406fee5332409e48a2c0a6d33d4ca84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-Light.ttf using Guid(4406fee5332409e48a2c0a6d33d4ca84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3abae01929730bb4ac78090af9bc48f5') in 0.023862 seconds
-  Import took 0.026841 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-SemiBold.ttf
-  artifactKey: Guid(8fd5e051b019f2e44a19f2582c9496d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-SemiBold.ttf using Guid(8fd5e051b019f2e44a19f2582c9496d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b515815fdf3c5b0aa8527ca6668cad3b') in 0.012423 seconds
-  Import took 0.015610 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-MediumItalic.ttf
-  artifactKey: Guid(ae2357ce59158dd48b65e2bca630dd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-MediumItalic.ttf using Guid(ae2357ce59158dd48b65e2bca630dd6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77802d15f124565f66cb27f2cc886b1') in 0.011724 seconds
-  Import took 0.014676 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-LightItalic.ttf
-  artifactKey: Guid(b055dc54692dcb24694b41946f8c6e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-LightItalic.ttf using Guid(b055dc54692dcb24694b41946f8c6e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6818a24f87f2066207641b803d31667f') in 0.014198 seconds
-  Import took 0.017371 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Light.ttf
-  artifactKey: Guid(42ca0a70e96d3ea4b836573e48fb7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Light.ttf using Guid(42ca0a70e96d3ea4b836573e48fb7e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d5bcb9a3d849e36d3a87726f89868a') in 0.011545 seconds
-  Import took 0.014795 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-Regular.ttf
-  artifactKey: Guid(52fa61d1b358f9d4193379b58c126636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-Regular.ttf using Guid(52fa61d1b358f9d4193379b58c126636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f7f1b2a10c200b15d0bdae311ff596') in 0.012296 seconds
-  Import took 0.015204 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-LightItalic.ttf
-  artifactKey: Guid(b03fb352d2033bd4faff3e1fe718597d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-LightItalic.ttf using Guid(b03fb352d2033bd4faff3e1fe718597d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b1d82a61dc005dfd7a367817ebbc703') in 0.013205 seconds
-  Import took 0.016175 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/fonts/Nunito/Nunito-Italic-VariableFont_wght.ttf
-  artifactKey: Guid(d9c1913e2dbef564b8e7385cd95beab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/Nunito-Italic-VariableFont_wght.ttf using Guid(d9c1913e2dbef564b8e7385cd95beab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0429bf720e086becf4585db627281df0') in 0.013193 seconds
-  Import took 0.016390 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-Medium.ttf
-  artifactKey: Guid(20e18b414c23a8c47ba7d9389da41d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-Medium.ttf using Guid(20e18b414c23a8c47ba7d9389da41d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b95b6cfea3fa972e11a08e61e74ab37f') in 0.011346 seconds
-  Import took 0.014334 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-Bold.ttf
-  artifactKey: Guid(ba35821c7a3c92946be05f7f34ce5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-Bold.ttf using Guid(ba35821c7a3c92946be05f7f34ce5029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f1c5201f0f78908e1cbc05b4a85343') in 0.013263 seconds
-  Import took 0.016543 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/fonts/Quicksand/static/Quicksand-Regular.ttf
-  artifactKey: Guid(a7e2d4143802fd34981d2c55afd5bb02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Quicksand/static/Quicksand-Regular.ttf using Guid(a7e2d4143802fd34981d2c55afd5bb02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '736e3985e2445e96614baccfbf2d6efb') in 0.011781 seconds
-  Import took 0.014940 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Regular.ttf
-  artifactKey: Guid(02ef0b67c9d270645a9cbab04d128ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Regular.ttf using Guid(02ef0b67c9d270645a9cbab04d128ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74eb0120cae2b02abb2b760b9c488aa') in 0.012068 seconds
-  Import took 0.014892 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/fonts/Rubik/Rubik-Italic-VariableFont_wght.ttf
-  artifactKey: Guid(61deba24cf96e8649bbed9d05fbd1546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/Rubik-Italic-VariableFont_wght.ttf using Guid(61deba24cf96e8649bbed9d05fbd1546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee942a834575acd01e896f7636fbb6fc') in 0.014872 seconds
-  Import took 0.018278 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-Regular.ttf
-  artifactKey: Guid(0b505efc519a0d04287a3656320c6be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-Regular.ttf using Guid(0b505efc519a0d04287a3656320c6be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61d897759bafaa2742033d81c1e93a98') in 0.012331 seconds
-  Import took 0.015489 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-MediumItalic.ttf
-  artifactKey: Guid(c93380547f96e624197dd92a1a23cfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-MediumItalic.ttf using Guid(c93380547f96e624197dd92a1a23cfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '327fb6f1bef0f9ff02d3cde6dd2b2fa7') in 0.012215 seconds
-  Import took 0.015518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-Black.ttf
-  artifactKey: Guid(185983a22a662bf4d9c77414a7010d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-Black.ttf using Guid(185983a22a662bf4d9c77414a7010d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0524e0362374c016be6938670cc7b0e6') in 0.011674 seconds
-  Import took 0.014880 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-SemiBold.ttf
-  artifactKey: Guid(eb6186b8d0b2c0a488c4a74ddd5776da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-SemiBold.ttf using Guid(eb6186b8d0b2c0a488c4a74ddd5776da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175d5793d8fad64ffa28b766a955c5e4') in 0.012054 seconds
-  Import took 0.015282 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-SemiBold.ttf
-  artifactKey: Guid(1a026913919265a4e992ef7ac8725b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-SemiBold.ttf using Guid(1a026913919265a4e992ef7ac8725b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e6359adb1cb3641373c8b48da77118') in 0.011608 seconds
-  Import took 0.014698 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/fonts/Quicksand/static/Quicksand-Light.ttf
-  artifactKey: Guid(6c63994976cec4544a55063f023ab79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Quicksand/static/Quicksand-Light.ttf using Guid(6c63994976cec4544a55063f023ab79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a414f6efd725d8c3ba9ce245115cbf') in 0.012238 seconds
-  Import took 0.015529 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Medium.ttf
-  artifactKey: Guid(4f4fee08325e5f74aadc873cc8e9058c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Medium.ttf using Guid(4f4fee08325e5f74aadc873cc8e9058c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f72ceba7c0fa4cd0921a251d5493f95') in 0.012944 seconds
-  Import took 0.015989 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-ExtraBoldItalic.ttf
-  artifactKey: Guid(bc9b2d599357da447b7c30f0c53bb641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-ExtraBoldItalic.ttf using Guid(bc9b2d599357da447b7c30f0c53bb641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd37bd9d0c9cfe8e0d963c8efa1ebb9') in 0.012163 seconds
-  Import took 0.015660 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf
-  artifactKey: Guid(a04e9351cbefcbe4fa63e999e5ba9462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf using Guid(a04e9351cbefcbe4fa63e999e5ba9462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07dd1c75546b333476101fa737d6561') in 0.013605 seconds
-  Import took 0.017034 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000258 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-LightItalic.ttf
-  artifactKey: Guid(d9fd9108eebac2941a8006872b7fa722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-LightItalic.ttf using Guid(d9fd9108eebac2941a8006872b7fa722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215709742e1feb9d7ef5238a6605ee13') in 0.012190 seconds
-  Import took 0.015629 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/fonts/Nunito/Nunito-VariableFont_wght.ttf
-  artifactKey: Guid(e1264cfc6ff6b334e8d3e45699a1e484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/Nunito-VariableFont_wght.ttf using Guid(e1264cfc6ff6b334e8d3e45699a1e484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f40f156e262cf485995777884c37b0') in 0.011763 seconds
-  Import took 0.014879 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-Black.ttf
-  artifactKey: Guid(b3bd11699ed583345a16277fc4d5290e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-Black.ttf using Guid(b3bd11699ed583345a16277fc4d5290e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '579bb3b81e1872e5bdcd99693334f364') in 0.022344 seconds
-  Import took 0.025709 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-SemiBold.ttf
-  artifactKey: Guid(44115843ea1b3cf4e8abb93d7a61183b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-SemiBold.ttf using Guid(44115843ea1b3cf4e8abb93d7a61183b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d8d5519490ee4c5c6b89bdca6d56cf') in 0.031036 seconds
-  Import took 0.034347 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-ExtraBold.ttf
-  artifactKey: Guid(c909d3c58ad7f0f4eb964b4fc302b6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-ExtraBold.ttf using Guid(c909d3c58ad7f0f4eb964b4fc302b6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bee55fa903bb2f1f0c85898a4693398c') in 0.012738 seconds
-  Import took 0.015636 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-Light.ttf
-  artifactKey: Guid(d8276554ff4b2db4db38f9c31b63c4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-Light.ttf using Guid(d8276554ff4b2db4db38f9c31b63c4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715be5a1d226ee901f4943d3099867e3') in 0.011800 seconds
-  Import took 0.014780 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/fonts/Pacifico/Pacifico-Regular.ttf
-  artifactKey: Guid(87da9ccbcffb60e48a22f4ecded06160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Pacifico/Pacifico-Regular.ttf using Guid(87da9ccbcffb60e48a22f4ecded06160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b12a63e4b19e88e2625ff8a89969012') in 0.012515 seconds
-  Import took 0.015557 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Bold.ttf
-  artifactKey: Guid(08a8ed1917d870c46ac00b48eda30b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Bold.ttf using Guid(08a8ed1917d870c46ac00b48eda30b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e168203e3e4feb1ad34cd7ebdf7ce4') in 0.015421 seconds
-  Import took 0.018618 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-ExtraBoldItalic.ttf
-  artifactKey: Guid(8ae637e082a4ab04d99b111542d9a8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-ExtraBoldItalic.ttf using Guid(8ae637e082a4ab04d99b111542d9a8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03c24e9eb4bbefe8d4776fd8a0c46ff') in 0.014159 seconds
-  Import took 0.017328 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-SemiBoldItalic.ttf
-  artifactKey: Guid(ab482a7b88d95864bab952631bfaf691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-SemiBoldItalic.ttf using Guid(ab482a7b88d95864bab952631bfaf691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0354e9b04b848efcf10f7da6e88315') in 0.012882 seconds
-  Import took 0.016129 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-BoldItalic.ttf
-  artifactKey: Guid(a134a53a2b1442447bfdef3a64ebcc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-BoldItalic.ttf using Guid(a134a53a2b1442447bfdef3a64ebcc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5991a1fa70329c4663d432a4c7652f2') in 0.012126 seconds
-  Import took 0.015281 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-Italic.ttf
-  artifactKey: Guid(de022b02ba62af74e8a06c6c7ce026f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-Italic.ttf using Guid(de022b02ba62af74e8a06c6c7ce026f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258fac42ba2fde5952f896fe446150f8') in 0.012923 seconds
-  Import took 0.016115 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/fonts/Nunito/static/Nunito-ExtraLightItalic.ttf
-  artifactKey: Guid(b13464e2636909f45a071f1c1b1621e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito/static/Nunito-ExtraLightItalic.ttf using Guid(b13464e2636909f45a071f1c1b1621e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630d07cfb1762848a818c8de43ffcdbf') in 0.012983 seconds
-  Import took 0.016151 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-SemiBold.ttf
-  artifactKey: Guid(02dd384eea5818743bd8d32eacb37c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-SemiBold.ttf using Guid(02dd384eea5818743bd8d32eacb37c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b5a9d4243c7ae6b7846adc4813453d5') in 0.013616 seconds
-  Import took 0.016811 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-ExtraBold.ttf
-  artifactKey: Guid(d052a22bb8359114e957d98d0fb6ecd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-ExtraBold.ttf using Guid(d052a22bb8359114e957d98d0fb6ecd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4605b4ce6dbd00f2277b4e8653982892') in 0.013689 seconds
-  Import took 0.016906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/fonts/Quicksand/static/Quicksand-Bold.ttf
-  artifactKey: Guid(4c50910f88a566147b5aa41243397b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Quicksand/static/Quicksand-Bold.ttf using Guid(4c50910f88a566147b5aa41243397b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76662fe46a2f559c8c3139fb23054e28') in 0.013228 seconds
-  Import took 0.016845 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-ExtraLight.ttf
-  artifactKey: Guid(fa8c115ebb64c1847861372aacd2b2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-ExtraLight.ttf using Guid(fa8c115ebb64c1847861372aacd2b2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35c9b8692101a79ad75e37515b8121c3') in 0.012676 seconds
-  Import took 0.015758 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000282 seconds.
-  path: Assets/fonts/Rubik/static/Rubik-Medium.ttf
-  artifactKey: Guid(76a7ddb60f2f9694285e6310d6bc84fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Rubik/static/Rubik-Medium.ttf using Guid(76a7ddb60f2f9694285e6310d6bc84fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7984331fac89953e1d6f6253f09e7e') in 0.012330 seconds
-  Import took 0.015580 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Black.ttf
-  artifactKey: Guid(04bf1ec218d586e489e2c4814f4dc0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraExpanded/Inconsolata_UltraExpanded-Black.ttf using Guid(04bf1ec218d586e489e2c4814f4dc0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d10aa99d6fe0a17bb1c84eb1a42a84') in 0.013801 seconds
-  Import took 0.017257 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-BoldItalic.ttf
-  artifactKey: Guid(c749befe04a0d774496199e75aacc40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-BoldItalic.ttf using Guid(c749befe04a0d774496199e75aacc40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b34122fafa2543d6c1ba5900df216d66') in 0.011493 seconds
-  Import took 0.014630 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.022265 seconds.
-  path: Assets/fonts/Nunito_Sans/NunitoSans-BoldItalic.ttf
-  artifactKey: Guid(c749befe04a0d774496199e75aacc40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Nunito_Sans/NunitoSans-BoldItalic.ttf using Guid(c749befe04a0d774496199e75aacc40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b34122fafa2543d6c1ba5900df216d66') in 0.011167 seconds
-  Import took 0.014467 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.605613 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Bold.ttf
-  artifactKey: Guid(6f57923211432cb48bd7b8472e1ee371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Bold.ttf using Guid(6f57923211432cb48bd7b8472e1ee371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16b456870337fee6a43fb749164cbcb') in 0.011572 seconds
-  Import took 0.014733 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Light.ttf
-  artifactKey: Guid(91c38a43cb2af724fb4a4f37fddac1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Light.ttf using Guid(91c38a43cb2af724fb4a4f37fddac1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50db0e846b7e1e444d366de413f9a432') in 0.013098 seconds
-  Import took 0.016437 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Bold.ttf
-  artifactKey: Guid(499e9747e29898e4f876fa105e6a44ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Bold.ttf using Guid(499e9747e29898e4f876fa105e6a44ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784f47fb5a23d7bb441cb8ccf05c7c6f') in 0.017346 seconds
-  Import took 0.020720 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-ExtraBold.ttf
-  artifactKey: Guid(1fd24479414a9bb4ea9c473e5132f1d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-ExtraBold.ttf using Guid(1fd24479414a9bb4ea9c473e5132f1d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3893f2a7e74a180b0543ba80a3ef6438') in 0.011577 seconds
-  Import took 0.014518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-ExtraLight.ttf
-  artifactKey: Guid(2197c878ca473c94f87456bb8bdb1f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-ExtraLight.ttf using Guid(2197c878ca473c94f87456bb8bdb1f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ceaf10e10c659a8af700e6b1ee0ed8c') in 0.011547 seconds
-  Import took 0.014684 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-ExtraBold.ttf
-  artifactKey: Guid(9c32cc08260c6214a84fa8bb9512f0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-ExtraBold.ttf using Guid(9c32cc08260c6214a84fa8bb9512f0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9bc05a701d7aae68441a3ee3ed2023') in 0.012501 seconds
-  Import took 0.015827 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Black.ttf
-  artifactKey: Guid(8387bc1980d33f14ab0de32de4287cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-Black.ttf using Guid(8387bc1980d33f14ab0de32de4287cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '341f5c8de660d3c081821527f0eff2d7') in 0.012112 seconds
-  Import took 0.015461 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-ExtraLight.ttf
-  artifactKey: Guid(2197c878ca473c94f87456bb8bdb1f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-ExtraLight.ttf using Guid(2197c878ca473c94f87456bb8bdb1f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ceaf10e10c659a8af700e6b1ee0ed8c') in 0.011137 seconds
-  Import took 0.014076 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Regular.ttf
-  artifactKey: Guid(2fa08aecebc79de479c4996f5bfcb988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Regular.ttf using Guid(2fa08aecebc79de479c4996f5bfcb988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f06f17b3050449bbd5aa573897373d5') in 0.011777 seconds
-  Import took 0.015031 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Medium.ttf
-  artifactKey: Guid(e97fe7fb9b051f6469360581fd0f3997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Medium.ttf using Guid(e97fe7fb9b051f6469360581fd0f3997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45c6729ad9306057be10a0947986b64') in 0.011763 seconds
-  Import took 0.014987 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-SemiBold.ttf
-  artifactKey: Guid(0c5705a7c85afc14f8718386b9d2748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-SemiBold.ttf using Guid(0c5705a7c85afc14f8718386b9d2748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05db6e31a74307dc69f4b9a5edd7119a') in 0.011689 seconds
-  Import took 0.026091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-ExtraLight.ttf
-  artifactKey: Guid(499d1c23c99638a40b49e9056e940412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_UltraCondensed/Inconsolata_UltraCondensed-ExtraLight.ttf using Guid(499d1c23c99638a40b49e9056e940412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597d33229b1f701f7c06a7bb05c6771b') in 0.011614 seconds
-  Import took 0.014778 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000502 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-SemiBold.ttf
-  artifactKey: Guid(0c5705a7c85afc14f8718386b9d2748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-SemiBold.ttf using Guid(0c5705a7c85afc14f8718386b9d2748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05db6e31a74307dc69f4b9a5edd7119a') in 0.011723 seconds
-  Import took 0.014829 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.393452 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Regular.ttf
-  artifactKey: Guid(0882b8f1e80b78242939560ae20afbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Regular.ttf using Guid(0882b8f1e80b78242939560ae20afbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f8a89c9d6c23f882461d10f38e4fa7') in 0.011384 seconds
-  Import took 0.014535 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000293 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Black.ttf
-  artifactKey: Guid(6939297ba09b8654e959f480227070b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Black.ttf using Guid(6939297ba09b8654e959f480227070b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bdd5dfebf83aeb4b221cf727281a568') in 0.014376 seconds
-  Import took 0.017370 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-SemiBold.ttf
-  artifactKey: Guid(19c535a1c5c864546ae81444ba3395c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-SemiBold.ttf using Guid(19c535a1c5c864546ae81444ba3395c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a644aa62df5ddf7a421106f9c22808e') in 0.014143 seconds
-  Import took 0.017434 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000293 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Light.ttf
-  artifactKey: Guid(3d277a5349b749f4fa46991d2d6330fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Light.ttf using Guid(3d277a5349b749f4fa46991d2d6330fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3af045aa2910fc9d719706b4f5bebae') in 0.012755 seconds
-  Import took 0.016091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-ExtraBold.ttf
-  artifactKey: Guid(e26d12dac6e6def44a26596a36f06d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-ExtraBold.ttf using Guid(e26d12dac6e6def44a26596a36f06d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18aa0413e0c1594e5bd75af1e3684a7d') in 0.011539 seconds
-  Import took 0.014883 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Bold.ttf
-  artifactKey: Guid(10335dbe1c0b2c04ebcd93ef7f72d85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Bold.ttf using Guid(10335dbe1c0b2c04ebcd93ef7f72d85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6adc41c62d73e896922c40a6829eb737') in 0.012188 seconds
-  Import took 0.015462 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Regular.ttf
-  artifactKey: Guid(be3030786e790db4bba7ffe7ff6ef701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Regular.ttf using Guid(be3030786e790db4bba7ffe7ff6ef701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48fe8eba50f95edce16fb66c0ed9f28') in 0.012784 seconds
-  Import took 0.016151 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Medium.ttf
-  artifactKey: Guid(e8fc6220d29eecd4baf60b2e8b3e5555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-Medium.ttf using Guid(e8fc6220d29eecd4baf60b2e8b3e5555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7fcbeacd5fea5eff4732982b5cab625') in 0.012320 seconds
-  Import took 0.015364 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-SemiBold.ttf
-  artifactKey: Guid(3b967cb66cbc0a24e84483e16824e2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-SemiBold.ttf using Guid(3b967cb66cbc0a24e84483e16824e2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b4e5db1eafab9069d7b01db710799a') in 0.011168 seconds
-  Import took 0.014666 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-ExtraLight.ttf
-  artifactKey: Guid(9575a7e70e1e07541aae5897ad4f42f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiCondensed/Inconsolata_SemiCondensed-ExtraLight.ttf using Guid(9575a7e70e1e07541aae5897ad4f42f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5abceaef2bcf37e51293764154f0a8c7') in 0.012723 seconds
-  Import took 0.015793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Black.ttf
-  artifactKey: Guid(7cfede8e73536c24fa18627f88f4c3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_SemiExpanded/Inconsolata_SemiExpanded-Black.ttf using Guid(7cfede8e73536c24fa18627f88f4c3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a15e63f8591538ecad822de0ef7012b') in 0.011545 seconds
-  Import took 0.014327 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.468212 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-ExtraLight.ttf
-  artifactKey: Guid(4baecfdf801532d42b156bd860e00a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-ExtraLight.ttf using Guid(4baecfdf801532d42b156bd860e00a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ec2cc7956cfad3e2ade23361bed92f') in 0.012025 seconds
-  Import took 0.015158 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-SemiBold.ttf
-  artifactKey: Guid(1523965f7fd18cb44b103bc4bbf7553a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-SemiBold.ttf using Guid(1523965f7fd18cb44b103bc4bbf7553a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63989b2cfe00ea5aa8983bd41b0a876') in 0.013270 seconds
-  Import took 0.016688 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Bold.ttf
-  artifactKey: Guid(ed56b2b7ac6b8364fa6b41638e8bc2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Bold.ttf using Guid(ed56b2b7ac6b8364fa6b41638e8bc2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97c24f9d775b24c162f2a1c9f434ef8') in 0.015211 seconds
-  Import took 0.018498 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000301 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Light.ttf
-  artifactKey: Guid(19523d8d9a652584aa5584a7dddcc901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Light.ttf using Guid(19523d8d9a652584aa5584a7dddcc901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc617d5f5d0efaba1b2be9942d4b723') in 0.012514 seconds
-  Import took 0.015790 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-ExtraLight.ttf
-  artifactKey: Guid(64acd9ae13fabdf4ba3750ff045e1698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-ExtraLight.ttf using Guid(64acd9ae13fabdf4ba3750ff045e1698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed59ac89f5827a6071d0627eb20e4c1') in 0.011685 seconds
-  Import took 0.014761 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Regular.ttf
-  artifactKey: Guid(7a5d40bf4f021fa499e22f7c7459d403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Regular.ttf using Guid(7a5d40bf4f021fa499e22f7c7459d403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc06aa7f5eb2aeac57f27a818dc20932') in 0.015072 seconds
-  Import took 0.018327 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Light.ttf
-  artifactKey: Guid(2a422583d7c96d0498ddce632604b72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Light.ttf using Guid(2a422583d7c96d0498ddce632604b72a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba7fff5fb0caa95f32ba88cd3e40ca2') in 0.011242 seconds
-  Import took 0.014531 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Black.ttf
-  artifactKey: Guid(e4da9df299ab614409a1ac7125e64ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Black.ttf using Guid(e4da9df299ab614409a1ac7125e64ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94d5280ee881cfc6d36921ca53a5ba58') in 0.011891 seconds
-  Import took 0.015021 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Medium.ttf
-  artifactKey: Guid(1f4d7e2a75074d547bed10c38291d9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Medium.ttf using Guid(1f4d7e2a75074d547bed10c38291d9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f37e78001f73fe986dbc53af642030') in 0.013833 seconds
-  Import took 0.017150 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000384 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-ExtraBold.ttf
-  artifactKey: Guid(5d67ed31b64ee9a4abdd97d1843c9e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-ExtraBold.ttf using Guid(5d67ed31b64ee9a4abdd97d1843c9e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e13591371ea59d02722781abe1c00fa') in 0.011989 seconds
-  Import took 0.015187 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Black.ttf
-  artifactKey: Guid(e4da9df299ab614409a1ac7125e64ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Black.ttf using Guid(e4da9df299ab614409a1ac7125e64ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94d5280ee881cfc6d36921ca53a5ba58') in 0.011864 seconds
-  Import took 0.015022 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Medium.ttf
-  artifactKey: Guid(6a5d2b6ffb414da43a7d10c2491a3b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraExpanded/Inconsolata_ExtraExpanded-Medium.ttf using Guid(6a5d2b6ffb414da43a7d10c2491a3b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff9fcf29db5812665d1063943f6a092') in 0.011465 seconds
-  Import took 0.014471 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.024528 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Black.ttf
-  artifactKey: Guid(5e3390c96ef442741b6ed42d3900362a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Black.ttf using Guid(5e3390c96ef442741b6ed42d3900362a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0022ef9aae0ab530211623137898680') in 0.021623 seconds
-  Import took 0.024860 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Bold.ttf
-  artifactKey: Guid(f9ab50fc3c581944bb5a3d767f98c613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Bold.ttf using Guid(f9ab50fc3c581944bb5a3d767f98c613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04a6c5e9b1dd1211c705e88134cfadc') in 0.012953 seconds
-  Import took 0.015827 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-ExtraBold.ttf
-  artifactKey: Guid(9d9bffb8a7b7cf344923351eb7be7204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-ExtraBold.ttf using Guid(9d9bffb8a7b7cf344923351eb7be7204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d7a681d37c9b37f5753bfe9710bf36') in 0.012518 seconds
-  Import took 0.015673 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Regular.ttf
-  artifactKey: Guid(048e772dc7dd05e4ba63c239cd5e75f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Regular.ttf using Guid(048e772dc7dd05e4ba63c239cd5e75f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44716ef64ebc711dc3d73bcffa44bf8') in 0.012526 seconds
-  Import took 0.015646 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-ExtraLight.ttf
-  artifactKey: Guid(9785989a149ea684d8e5626abd499c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-ExtraLight.ttf using Guid(9785989a149ea684d8e5626abd499c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e1ce44568af965e6d36a4554ed90748') in 0.014477 seconds
-  Import took 0.017634 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Light.ttf
-  artifactKey: Guid(1e9b38018fccc1b4bb8d64d02fbf781c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Light.ttf using Guid(1e9b38018fccc1b4bb8d64d02fbf781c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09790ffc028f2720775365be7e24362') in 0.013084 seconds
-  Import took 0.016095 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Medium.ttf
-  artifactKey: Guid(36d8b1e925498dc44b053dbefdca6fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Medium.ttf using Guid(36d8b1e925498dc44b053dbefdca6fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62aada5705438a9ce29884f1d678801') in 0.011957 seconds
-  Import took 0.015076 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Black.ttf
-  artifactKey: Guid(21242b4eafe920e4aae1da4beb8a95d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-Black.ttf using Guid(21242b4eafe920e4aae1da4beb8a95d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba8e5450d764e2432d2ae66f0f523f1') in 0.012575 seconds
-  Import took 0.016126 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-ExtraBold.ttf
-  artifactKey: Guid(07542fd226cad464baacaf1ecf553afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_ExtraCondensed/Inconsolata_ExtraCondensed-ExtraBold.ttf using Guid(07542fd226cad464baacaf1ecf553afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c71fe1513bec8475ca46b2c80f0f6f3c') in 0.014440 seconds
-  Import took 0.018147 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Bold.ttf
-  artifactKey: Guid(e84f4ee328958a34f8350b9a3a844703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-Bold.ttf using Guid(e84f4ee328958a34f8350b9a3a844703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5025c095109c1f9b859048a5a2d810d6') in 0.013704 seconds
-  Import took 0.016968 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Regular.ttf
-  artifactKey: Guid(79fa7b2ed68dcd24a981d0741316bf74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Regular.ttf using Guid(79fa7b2ed68dcd24a981d0741316bf74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3a7b956d3a4450431da3ea5b95401d') in 0.013580 seconds
-  Import took 0.017348 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Regular.ttf
-  artifactKey: Guid(4d68b4dbdccd45c4ab5902ed844ed0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Regular.ttf using Guid(4d68b4dbdccd45c4ab5902ed844ed0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d7c44ac8dd7c9834816598316182e49') in 0.014486 seconds
-  Import took 0.018064 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-SemiBold.ttf
-  artifactKey: Guid(9158e013d8e470a4f9426dc6b80842f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-SemiBold.ttf using Guid(9158e013d8e470a4f9426dc6b80842f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ef7992bd602d85e73e5fca6f4e5952') in 0.014308 seconds
-  Import took 0.017718 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Light.ttf
-  artifactKey: Guid(8b94cb59100bc974dbaf95ed22244ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Light.ttf using Guid(8b94cb59100bc974dbaf95ed22244ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d3b534c3613f9cf48a2cf2ef41f43e') in 0.025277 seconds
-  Import took 0.028239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf
-  artifactKey: Guid(e108b8ad8239f6e439d0128c6150245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf using Guid(e108b8ad8239f6e439d0128c6150245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44afe7b4eb51446195a517b3bfd6a86b') in 0.013631 seconds
-  Import took 0.016796 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-ExtraBold.ttf
-  artifactKey: Guid(400ee94fa6ed5554fba3ddf6bb0938e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-ExtraBold.ttf using Guid(400ee94fa6ed5554fba3ddf6bb0938e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8bed12b9b66c7f7079ad3fe025fff0') in 0.013727 seconds
-  Import took 0.016793 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-ExtraLight.ttf
-  artifactKey: Guid(8d652b6c7fec3e2458e5a09a662e4d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-ExtraLight.ttf using Guid(8d652b6c7fec3e2458e5a09a662e4d51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efb299cb550caa3d4bdd59cafe58ca38') in 0.011592 seconds
-  Import took 0.015144 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Bold.ttf
-  artifactKey: Guid(116aafd9acb1e5d4aa07d14b0c938afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Bold.ttf using Guid(116aafd9acb1e5d4aa07d14b0c938afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5ae7481426b620d89ca076fb99b6b9') in 0.024292 seconds
-  Import took 0.027482 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000278 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-SemiBold.ttf
-  artifactKey: Guid(326588605d8f97e4ab9b5218775fc9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-SemiBold.ttf using Guid(326588605d8f97e4ab9b5218775fc9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df94830d120ed4162e4a5ac7ac0d4cac') in 0.012002 seconds
-  Import took 0.015263 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-ExtraLight.ttf
-  artifactKey: Guid(c4d7d16868509874bbd96b0a5363e8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-ExtraLight.ttf using Guid(c4d7d16868509874bbd96b0a5363e8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaff476ab39e08073aea90393af95218') in 0.011458 seconds
-  Import took 0.014651 seconds .
+Received Prepare
+Default GameObject BitMask: background already registered
 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-Regular.ttf
-  artifactKey: Guid(a38834e046a292f4ea4da928f53793a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-Regular.ttf using Guid(a38834e046a292f4ea4da928f53793a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d28d5a62fc8719fd808dd8b326b4a3') in 0.012194 seconds
-  Import took 0.015513 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Bold.ttf
-  artifactKey: Guid(7c39e4a5950d8874ca9cb5e375be49d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Bold.ttf using Guid(7c39e4a5950d8874ca9cb5e375be49d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2234e8abcddc4ee63c0521092106d596') in 0.013345 seconds
-  Import took 0.016526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Medium.ttf
-  artifactKey: Guid(8b0e8ab6203c460458006b37d660a88d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Medium.ttf using Guid(8b0e8ab6203c460458006b37d660a88d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77fe345941a68db3a81ee76d2b9d97c6') in 0.011823 seconds
-  Import took 0.015088 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Light.ttf
-  artifactKey: Guid(2154036511c1bbb4bafead664dbdcb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Light.ttf using Guid(2154036511c1bbb4bafead664dbdcb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c9eda40153deb14601fa36b757fc1c') in 0.011716 seconds
-  Import took 0.014928 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-MediumItalic.ttf
-  artifactKey: Guid(894c267bf3dabce49a3b603ad70b3b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-MediumItalic.ttf using Guid(894c267bf3dabce49a3b603ad70b3b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8461c16ce86738e478b2a58df0378f65') in 0.011936 seconds
-  Import took 0.015001 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-SemiBoldItalic.ttf
-  artifactKey: Guid(3125000b919840742a0b6faf4bb5523b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-SemiBoldItalic.ttf using Guid(3125000b919840742a0b6faf4bb5523b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7551fe0f05a197a0d752426d7d10947a') in 0.011397 seconds
-  Import took 0.015277 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Black.ttf
-  artifactKey: Guid(117d99e45c0d2d24c8fdfc09fef764cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-Black.ttf using Guid(117d99e45c0d2d24c8fdfc09fef764cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177655c3f1e3ec5030313ac1dc99839c') in 0.011827 seconds
-  Import took 0.015067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-Medium.ttf
-  artifactKey: Guid(03c2832c1e8f04b44b31392b6d27b2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-Medium.ttf using Guid(03c2832c1e8f04b44b31392b6d27b2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cc220c755a34ae95e0aac2b95968ea') in 0.014576 seconds
-  Import took 0.017803 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Medium.ttf
-  artifactKey: Guid(f1f728884543a3d4f97307e9c7733c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Medium.ttf using Guid(f1f728884543a3d4f97307e9c7733c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a9b115a85681d32e44c159780393b7') in 0.011350 seconds
-  Import took 0.014563 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000338 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-Bold.ttf
-  artifactKey: Guid(9380c2496a05c4b40a4c80c73fb2313c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-Bold.ttf using Guid(9380c2496a05c4b40a4c80c73fb2313c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f154f0ff0c5894dab1f11424054e7b83') in 0.012031 seconds
-  Import took 0.015214 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-Italic.ttf
-  artifactKey: Guid(4838e7cd31abbd44893cd95f95a8f695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-Italic.ttf using Guid(4838e7cd31abbd44893cd95f95a8f695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a15d59bc58092d23af3c0d538b5b38') in 0.015830 seconds
-  Import took 0.019104 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-Bold.ttf
-  artifactKey: Guid(6389d297376606243a53331c0295c534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-Bold.ttf using Guid(6389d297376606243a53331c0295c534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d051a4a207cdf6f8a33cccac63bc1d8') in 0.027122 seconds
-  Import took 0.030416 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-Regular.ttf
-  artifactKey: Guid(fce4d6e6f2878ef4993592d8cc7546f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-Regular.ttf using Guid(fce4d6e6f2878ef4993592d8cc7546f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39239e469dfb91bfb6e0c813a472ade7') in 0.012486 seconds
-  Import took 0.015649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-SemiBold.ttf
-  artifactKey: Guid(9615afa6aa2e4d542a027e13ec370e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-SemiBold.ttf using Guid(9615afa6aa2e4d542a027e13ec370e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a10625026d55dab49d1ff36263657e') in 0.012677 seconds
-  Import took 0.015942 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000226 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-Italic.ttf
-  artifactKey: Guid(87773728af62f2d4f96e8a65400b6963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-Italic.ttf using Guid(87773728af62f2d4f96e8a65400b6963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9675cd09116dc42637ebc064ee27ae7') in 0.013519 seconds
-  Import took 0.016668 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000323 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-BoldItalic.ttf
-  artifactKey: Guid(ff7719a079c124644a4bc4f843010cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-BoldItalic.ttf using Guid(ff7719a079c124644a4bc4f843010cf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377380311e08dbd7ce621d67c18b2a56') in 0.013184 seconds
-  Import took 0.016362 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-MediumItalic.ttf
-  artifactKey: Guid(9772593188a332049adabeba096e3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-MediumItalic.ttf using Guid(9772593188a332049adabeba096e3c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84cea6d3056806da955d0ec4200bc9a7') in 0.014021 seconds
-  Import took 0.017076 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-Medium.ttf
-  artifactKey: Guid(561ea25e34e45c34ab5bee560c251c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-Medium.ttf using Guid(561ea25e34e45c34ab5bee560c251c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25683c57043b4b0c8924f443cd15d86c') in 0.015119 seconds
-  Import took 0.018511 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-SemiBoldItalic.ttf
-  artifactKey: Guid(8f54e5bcaa48ca0428f55bc1b610bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-SemiBoldItalic.ttf using Guid(8f54e5bcaa48ca0428f55bc1b610bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aef6f7477d3abf66f9d06376e870c78') in 0.013068 seconds
-  Import took 0.016523 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-BoldItalic.ttf
-  artifactKey: Guid(42a2fdd29e5d7a9488467455a9b4a32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_Condensed/Cabin_Condensed-BoldItalic.ttf using Guid(42a2fdd29e5d7a9488467455a9b4a32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ffd2d16d6ddda89ccb450ffbec78f4') in 0.013315 seconds
-  Import took 0.016458 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-SemiBold.ttf
-  artifactKey: Guid(60285b916410f7e439f74a35896736e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin_SemiCondensed/Cabin_SemiCondensed-SemiBold.ttf using Guid(60285b916410f7e439f74a35896736e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a10ec875211685e1d13285dda51e375') in 0.016014 seconds
-  Import took 0.019427 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000438 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-ExtraBold.ttf
-  artifactKey: Guid(eba5a5bdfe6172d47b767bf266fc85a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata/Inconsolata-ExtraBold.ttf using Guid(eba5a5bdfe6172d47b767bf266fc85a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3072eeae218ad70a16ca358a26690aab') in 0.012830 seconds
-  Import took 0.016556 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Black.ttf
-  artifactKey: Guid(059501e145e6fd443a4a4a1947cfecda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Condensed/Inconsolata_Condensed-Black.ttf using Guid(059501e145e6fd443a4a4a1947cfecda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4774aa4a43ee4d54f13eb43aec5b2a71') in 0.012187 seconds
-  Import took 0.015288 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-SemiBold.ttf
-  artifactKey: Guid(09b42499250ed3b4fb6edd2fdd11edd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Inconsolata/static/Inconsolata_Expanded/Inconsolata_Expanded-SemiBold.ttf using Guid(09b42499250ed3b4fb6edd2fdd11edd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f93700315da592d1a22678affae44f') in 0.015458 seconds
-  Import took 0.018681 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.143054 seconds.
-  path: Assets/fonts/Cabin/static/Cabin/Cabin-Bold.ttf
-  artifactKey: Guid(9d3b9f5bb5369e64cb5149ef75bca8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin/Cabin-Bold.ttf using Guid(9d3b9f5bb5369e64cb5149ef75bca8e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5fe505fd509b62c34b0efba06585aa9') in 0.011174 seconds
-  Import took 0.014319 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/fonts/Cabin/static/Cabin/Cabin-Italic.ttf
-  artifactKey: Guid(4eafc6bbdafb8e245921526fc1c2f8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin/Cabin-Italic.ttf using Guid(4eafc6bbdafb8e245921526fc1c2f8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e8d2525242e6314f6cecf5500f612b') in 0.011486 seconds
-  Import took 0.014338 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/fonts/Cabin/static/Cabin/Cabin-MediumItalic.ttf
-  artifactKey: Guid(db7d28a2b76beaf44920e74c3dbb0666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin/Cabin-MediumItalic.ttf using Guid(db7d28a2b76beaf44920e74c3dbb0666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '319011db74d520081d6027a268278fba') in 0.015418 seconds
-  Import took 0.018590 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/fonts/Cabin/Cabin-VariableFont_wdth,wght.ttf
-  artifactKey: Guid(d59325b68c6171a41af65908bfb69d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/Cabin-VariableFont_wdth,wght.ttf using Guid(d59325b68c6171a41af65908bfb69d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e2ebe6dd6bdbe025eec03bda4faf9b') in 0.011810 seconds
-  Import took 0.015085 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/fonts/Cabin/static/Cabin/Cabin-BoldItalic.ttf
-  artifactKey: Guid(099987a9534828c4a80c7bde61cd7d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin/Cabin-BoldItalic.ttf using Guid(099987a9534828c4a80c7bde61cd7d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4fd1c409b0d26bb14dc379177f03714') in 0.011888 seconds
-  Import took 0.014763 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/fonts/Cabin/static/Cabin/Cabin-Medium.ttf
-  artifactKey: Guid(f6a6ea211b9897a4c8eed488e4df0b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin/Cabin-Medium.ttf using Guid(f6a6ea211b9897a4c8eed488e4df0b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84173385402250d60d3ef633b9802a09') in 0.013101 seconds
-  Import took 0.016302 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/fonts/Cabin/static/Cabin/Cabin-SemiBoldItalic.ttf
-  artifactKey: Guid(0d84d1f1503479c448d97964c848c181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin/Cabin-SemiBoldItalic.ttf using Guid(0d84d1f1503479c448d97964c848c181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb93e11fdbeff84d614fdda488b37453') in 0.013636 seconds
-  Import took 0.017744 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/fonts/Cabin/static/Cabin/Cabin-Regular.ttf
-  artifactKey: Guid(fd3b5d6b031e6f540bfd64424d57ef70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin/Cabin-Regular.ttf using Guid(fd3b5d6b031e6f540bfd64424d57ef70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3aa6571ed8185dd31121654c66a9d7') in 0.011882 seconds
-  Import took 0.014809 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/fonts/Cabin/Cabin-Italic-VariableFont_wdth,wght.ttf
-  artifactKey: Guid(52a16501e70483d46be4d4ce8554690f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/Cabin-Italic-VariableFont_wdth,wght.ttf using Guid(52a16501e70483d46be4d4ce8554690f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54e7170da9bb68929b4b607dc051813f') in 0.015036 seconds
-  Import took 0.018293 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000330 seconds.
-  path: Assets/fonts/Cabin/static/Cabin/Cabin-SemiBold.ttf
-  artifactKey: Guid(2d26a20980b3582418eb09485c0f29e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Cabin/static/Cabin/Cabin-SemiBold.ttf using Guid(2d26a20980b3582418eb09485c0f29e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba560feb2310b513ad2a657ad5a3dede') in 0.012077 seconds
-  Import took 0.015266 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 115.145676 seconds.
-  path: Assets/fonts/Sarpanch.zip
-  artifactKey: Guid(4cf1827514208954fbe46ae8ff8461a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch.zip using Guid(4cf1827514208954fbe46ae8ff8461a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46773bfaa0e5c4283f9144db09e5fcdb') in 0.004654 seconds
-  Import took 0.007888 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.867905 seconds.
-  path: Assets/Spirtes/upgrade 1.png
-  artifactKey: Guid(6ff3b7f7b342691489da4620a1afc568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Spirtes/upgrade 1.png using Guid(6ff3b7f7b342691489da4620a1afc568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f84f4170335b2a81227f6bbbc29881') in 0.012635 seconds
-  Import took 0.015825 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 46.565976 seconds.
-  path: Assets/fonts/Sarpanch-Black.ttf
-  artifactKey: Guid(344049aa4aa462b4fbc72ae2464aedee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch-Black.ttf using Guid(344049aa4aa462b4fbc72ae2464aedee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf13b5320b1abd50b53269efd8d7f2f6') in 0.012506 seconds
-  Import took 0.015750 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/fonts/Sarpanch-Medium.ttf
-  artifactKey: Guid(1455efb6f8fd807469804fb35f3e4ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch-Medium.ttf using Guid(1455efb6f8fd807469804fb35f3e4ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce68ef8eddb975c4d383b8afda1bc3b1') in 0.014175 seconds
-  Import took 0.017462 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/fonts/Sarpanch-Black.ttf
-  artifactKey: Guid(344049aa4aa462b4fbc72ae2464aedee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch-Black.ttf using Guid(344049aa4aa462b4fbc72ae2464aedee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf13b5320b1abd50b53269efd8d7f2f6') in 0.012500 seconds
-  Import took 0.015623 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/fonts/Sarpanch-ExtraBold.ttf
-  artifactKey: Guid(2709af2e5b4b7a047987239c2afe1095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch-ExtraBold.ttf using Guid(2709af2e5b4b7a047987239c2afe1095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf5b74a124945f80b3090462de27ecf') in 0.012711 seconds
-  Import took 0.015948 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/fonts/Sarpanch-Regular.ttf
-  artifactKey: Guid(dcdd668a21ec9364084b8e397e25f1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch-Regular.ttf using Guid(dcdd668a21ec9364084b8e397e25f1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a35e83b1e1b6f8e215875d13b46012') in 0.013589 seconds
-  Import took 0.017173 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/fonts/Sarpanch-SemiBold.ttf
-  artifactKey: Guid(c11d1add35d44b0489ea547a86cdc111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch-SemiBold.ttf using Guid(c11d1add35d44b0489ea547a86cdc111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e375a647f1c08bf2f997b2246ef29610') in 0.011842 seconds
-  Import took 0.015040 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/fonts/Sarpanch-Bold.ttf
-  artifactKey: Guid(bdf9aa3c70f814345ba690dae8f285a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch-Bold.ttf using Guid(bdf9aa3c70f814345ba690dae8f285a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3349e15875a970f386cb63217b9032') in 0.013695 seconds
-  Import took 0.017480 seconds .
+Registering precompiled user dll's ...
+Registered in 0.001007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.037 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1818 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2271.
+Total: 2.292600 ms (FindLiveObjects: 0.212000 ms CreateObjectMapping: 0.051500 ms MarkObjects: 1.875700 ms  DeleteObjects: 0.152000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.009510 seconds.
-  path: Assets/fonts/Sarpanch-Regular.ttf
-  artifactKey: Guid(dcdd668a21ec9364084b8e397e25f1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fonts/Sarpanch-Regular.ttf using Guid(dcdd668a21ec9364084b8e397e25f1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a35e83b1e1b6f8e215875d13b46012') in 0.012377 seconds
-  Import took 0.016064 seconds .
+  Time since last request: 339.101763 seconds.
+  path: Assets/Scenes/level-1.unity
+  artifactKey: Guid(f3d00730a5c92a646b656dca71592ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level-1.unity using Guid(f3d00730a5c92a646b656dca71592ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d5d012a542c77cd991865d4f90cc57') in 0.015219 seconds
+  Import took 0.051029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.113484 seconds.
+  path: Assets/Scenes/level-1.unity
+  artifactKey: Guid(f3d00730a5c92a646b656dca71592ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/level-1.unity using Guid(f3d00730a5c92a646b656dca71592ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d5d012a542c77cd991865d4f90cc57') in 0.003829 seconds
+  Import took 0.023488 seconds .
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.000996 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1818 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.4 MB.
+System memory in use after: 85.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 2.120000 ms (FindLiveObjects: 0.193300 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.761100 ms  DeleteObjects: 0.113100 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001080 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.960 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2280.
+Total: 3.427100 ms (FindLiveObjects: 0.423000 ms CreateObjectMapping: 0.157500 ms MarkObjects: 2.711600 ms  DeleteObjects: 0.133100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 549.193445 seconds.
+  path: Assets/scripts/Menu.cs
+  artifactKey: Guid(656d65841bed6f4448a0f537954122d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Menu.cs using Guid(656d65841bed6f4448a0f537954122d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2918b0ec85f094d4dc760952d3e320') in 0.079712 seconds
+  Import took 0.085412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.481932 seconds.
+  path: Assets/scripts/Menu.cs
+  artifactKey: Guid(656d65841bed6f4448a0f537954122d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Menu.cs using Guid(656d65841bed6f4448a0f537954122d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2918b0ec85f094d4dc760952d3e320') in 0.008723 seconds
+  Import took 0.015394 seconds .
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001337 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.722 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 3.383400 ms (FindLiveObjects: 0.421000 ms CreateObjectMapping: 0.104300 ms MarkObjects: 2.704800 ms  DeleteObjects: 0.151300 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001150 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2288.
+Total: 2.234600 ms (FindLiveObjects: 0.217800 ms CreateObjectMapping: 0.053200 ms MarkObjects: 1.813900 ms  DeleteObjects: 0.148300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8408.580431 seconds.
+  path: Assets/scripts/Menu.cs
+  artifactKey: Guid(656d65841bed6f4448a0f537954122d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Menu.cs using Guid(656d65841bed6f4448a0f537954122d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762accb8616d7b697c4ec61bad1dd53c') in 0.006767 seconds
+  Import took 0.009853 seconds .
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001024 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 2.266300 ms (FindLiveObjects: 0.217700 ms CreateObjectMapping: 0.055000 ms MarkObjects: 1.868200 ms  DeleteObjects: 0.124300 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001238 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 2.362900 ms (FindLiveObjects: 0.217100 ms CreateObjectMapping: 0.052100 ms MarkObjects: 1.957800 ms  DeleteObjects: 0.134800 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001323 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.944 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 2.207000 ms (FindLiveObjects: 0.206100 ms CreateObjectMapping: 0.050900 ms MarkObjects: 1.823500 ms  DeleteObjects: 0.125300 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001185 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2304.
+Total: 2.182200 ms (FindLiveObjects: 0.201500 ms CreateObjectMapping: 0.053700 ms MarkObjects: 1.802500 ms  DeleteObjects: 0.123500 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.001 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 2.380900 ms (FindLiveObjects: 0.282100 ms CreateObjectMapping: 0.051600 ms MarkObjects: 1.916400 ms  DeleteObjects: 0.129800 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.000978 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2312.
+Total: 2.165800 ms (FindLiveObjects: 0.227600 ms CreateObjectMapping: 0.053400 ms MarkObjects: 1.758700 ms  DeleteObjects: 0.124900 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.000975 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 2.163100 ms (FindLiveObjects: 0.205500 ms CreateObjectMapping: 0.052400 ms MarkObjects: 1.782800 ms  DeleteObjects: 0.121100 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001159 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.951 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 2.155400 ms (FindLiveObjects: 0.197500 ms CreateObjectMapping: 0.050300 ms MarkObjects: 1.779500 ms  DeleteObjects: 0.127000 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 3.005100 ms (FindLiveObjects: 0.398400 ms CreateObjectMapping: 0.076700 ms MarkObjects: 2.394200 ms  DeleteObjects: 0.134600 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001018 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2328.
+Total: 2.544900 ms (FindLiveObjects: 0.225900 ms CreateObjectMapping: 0.050600 ms MarkObjects: 2.080200 ms  DeleteObjects: 0.186700 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001321 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2332.
+Total: 2.382200 ms (FindLiveObjects: 0.347900 ms CreateObjectMapping: 0.052300 ms MarkObjects: 1.850700 ms  DeleteObjects: 0.130200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.000989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2336.
+Total: 2.129700 ms (FindLiveObjects: 0.192100 ms CreateObjectMapping: 0.051400 ms MarkObjects: 1.766900 ms  DeleteObjects: 0.118000 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.025 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2340.
+Total: 2.174700 ms (FindLiveObjects: 0.208900 ms CreateObjectMapping: 0.051300 ms MarkObjects: 1.784300 ms  DeleteObjects: 0.129000 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001047 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2344.
+Total: 2.264400 ms (FindLiveObjects: 0.201500 ms CreateObjectMapping: 0.050600 ms MarkObjects: 1.881900 ms  DeleteObjects: 0.129500 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001053 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.972 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 2.394900 ms (FindLiveObjects: 0.235300 ms CreateObjectMapping: 0.053400 ms MarkObjects: 1.980400 ms  DeleteObjects: 0.124600 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.000984 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2352.
+Total: 2.288100 ms (FindLiveObjects: 0.308700 ms CreateObjectMapping: 0.053000 ms MarkObjects: 1.802400 ms  DeleteObjects: 0.123000 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001017 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.005 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 2.781400 ms (FindLiveObjects: 0.216500 ms CreateObjectMapping: 0.052000 ms MarkObjects: 2.366600 ms  DeleteObjects: 0.144900 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.102 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 2.209300 ms (FindLiveObjects: 0.202100 ms CreateObjectMapping: 0.052700 ms MarkObjects: 1.822000 ms  DeleteObjects: 0.131600 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001021 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.992 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2364.
+Total: 2.367000 ms (FindLiveObjects: 0.206500 ms CreateObjectMapping: 0.050000 ms MarkObjects: 1.979000 ms  DeleteObjects: 0.130200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001005 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2368.
+Total: 2.305600 ms (FindLiveObjects: 0.215700 ms CreateObjectMapping: 0.051500 ms MarkObjects: 1.907300 ms  DeleteObjects: 0.130200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001037 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.012 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 2.390600 ms (FindLiveObjects: 0.382800 ms CreateObjectMapping: 0.052900 ms MarkObjects: 1.829100 ms  DeleteObjects: 0.124800 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001326 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.033 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2376.
+Total: 2.333800 ms (FindLiveObjects: 0.222500 ms CreateObjectMapping: 0.051600 ms MarkObjects: 1.923300 ms  DeleteObjects: 0.135300 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.000998 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.955 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2380.
+Total: 2.306200 ms (FindLiveObjects: 0.211000 ms CreateObjectMapping: 0.052400 ms MarkObjects: 1.917600 ms  DeleteObjects: 0.124200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001115 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.998 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2384.
+Total: 2.215200 ms (FindLiveObjects: 0.207200 ms CreateObjectMapping: 0.052500 ms MarkObjects: 1.832300 ms  DeleteObjects: 0.122200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001930 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.068 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2388.
+Total: 3.070100 ms (FindLiveObjects: 0.399700 ms CreateObjectMapping: 0.071800 ms MarkObjects: 2.451700 ms  DeleteObjects: 0.145200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2392.
+Total: 2.438900 ms (FindLiveObjects: 0.288800 ms CreateObjectMapping: 0.056400 ms MarkObjects: 1.964600 ms  DeleteObjects: 0.128200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2396.
+Total: 2.276400 ms (FindLiveObjects: 0.210400 ms CreateObjectMapping: 0.053400 ms MarkObjects: 1.882700 ms  DeleteObjects: 0.128700 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001003 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.037 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2400.
+Total: 2.426400 ms (FindLiveObjects: 0.215500 ms CreateObjectMapping: 0.051900 ms MarkObjects: 2.028500 ms  DeleteObjects: 0.129400 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2404.
+Total: 2.377900 ms (FindLiveObjects: 0.228400 ms CreateObjectMapping: 0.054000 ms MarkObjects: 1.965500 ms  DeleteObjects: 0.129000 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001182 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2408.
+Total: 3.002700 ms (FindLiveObjects: 0.315800 ms CreateObjectMapping: 0.057900 ms MarkObjects: 2.487800 ms  DeleteObjects: 0.139300 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.000997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2412.
+Total: 2.228300 ms (FindLiveObjects: 0.221600 ms CreateObjectMapping: 0.051000 ms MarkObjects: 1.826400 ms  DeleteObjects: 0.128400 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001027 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2416.
+Total: 2.542700 ms (FindLiveObjects: 0.266600 ms CreateObjectMapping: 0.055100 ms MarkObjects: 2.095100 ms  DeleteObjects: 0.125100 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001601 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2420.
+Total: 2.552700 ms (FindLiveObjects: 0.231800 ms CreateObjectMapping: 0.053400 ms MarkObjects: 2.131700 ms  DeleteObjects: 0.134200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001030 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2424.
+Total: 2.487200 ms (FindLiveObjects: 0.217800 ms CreateObjectMapping: 0.053600 ms MarkObjects: 2.081300 ms  DeleteObjects: 0.132700 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2428.
+Total: 2.292200 ms (FindLiveObjects: 0.211600 ms CreateObjectMapping: 0.052300 ms MarkObjects: 1.898600 ms  DeleteObjects: 0.128700 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.000992 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2432.
+Total: 2.278600 ms (FindLiveObjects: 0.222100 ms CreateObjectMapping: 0.053400 ms MarkObjects: 1.873200 ms  DeleteObjects: 0.128400 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001141 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.953 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2436.
+Total: 2.212400 ms (FindLiveObjects: 0.226100 ms CreateObjectMapping: 0.053000 ms MarkObjects: 1.818200 ms  DeleteObjects: 0.114200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2440.
+Total: 2.811200 ms (FindLiveObjects: 0.391000 ms CreateObjectMapping: 0.132200 ms MarkObjects: 2.121100 ms  DeleteObjects: 0.163700 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001034 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.007 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2444.
+Total: 2.363300 ms (FindLiveObjects: 0.224100 ms CreateObjectMapping: 0.052100 ms MarkObjects: 1.960900 ms  DeleteObjects: 0.125200 ms)
+
+========================================================================
+Received Prepare
+Default GameObject BitMask: background already registered
+
+Registering precompiled user dll's ...
+Registered in 0.001020 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.948 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1819 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2448.
+Total: 2.221200 ms (FindLiveObjects: 0.222100 ms CreateObjectMapping: 0.053800 ms MarkObjects: 1.821300 ms  DeleteObjects: 0.122800 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
