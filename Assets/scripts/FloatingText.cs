@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+
+
 public class FloatingText
 {
     
@@ -11,6 +13,7 @@ public class FloatingText
     public float duration;
     public float lastShown;
 
+    
 
     public void Show()
     {

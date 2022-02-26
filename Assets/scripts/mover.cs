@@ -14,6 +14,9 @@ public abstract class mover : Fighter
     protected float ySpeed = 0.75f;
     //public float MoveSpeed = 5f;
 
+
+
+
     protected virtual void Start()
     {
         boxCollider = GetComponent<BoxCollider2D>();

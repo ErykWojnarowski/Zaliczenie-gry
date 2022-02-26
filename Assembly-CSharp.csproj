@@ -61,6 +61,7 @@
     <Compile Include="Assets\scripts\textManager.cs" />
     <Compile Include="Assets\scripts\FloatingText.cs" />
     <Compile Include="Assets\scripts\chest.cs" />
+    <Compile Include="Assets\scripts\Menu.cs" />
     <Compile Include="Assets\scripts\damage.cs" />
     <Compile Include="Assets\scripts\enemy.cs" />
     <Compile Include="Assets\scripts\portal.cs" />
@@ -71,7 +72,7 @@
     <Compile Include="Assets\scripts\collidable.cs" />
     <Compile Include="Assets\scripts\enemyHit.cs" />
     <Compile Include="Assets\scripts\player.cs" />
-    <Compile Include="Assets\scripts\Menu.cs" />
+    <Compile Include="Assets\scripts\Healing.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\fonts\Nunito\OFL.txt" />

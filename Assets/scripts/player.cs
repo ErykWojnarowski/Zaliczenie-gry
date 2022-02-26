@@ -4,6 +4,17 @@ using UnityEngine;
 
 public class player : mover 
 {
+    private SpriteRenderer spriteRenderer;
+
+    protected override void Start()
+    {
+        base.Start();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        DontDestroyOnLoad(gameObject);
+    }
+
+
     private void FixedUpdate()
     {
         float x = Input.GetAxisRaw("Horizontal");
@@ -22,5 +33,15 @@ public class player : mover
             OnLevelUp();
         }
     }
-
+    public void Heal(int healingAmount)
+    {
+        hitpoints += healingAmount;
+        if (hitpoints == maxHitpoints)
+            return;
+        if (hitpoints > maxHitpoints)
+            hitpoints = maxHitpoints;
+        
+        GameManager.instance.ShowText("+" + healingAmount.ToString() + " hp", 25, Color.green, transform.position, Vector3.up * 30, 1.0f);
+       
+    }
 }
