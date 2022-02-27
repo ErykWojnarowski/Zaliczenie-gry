@@ -13,13 +13,16 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
             Destroy(player.gameObject);
             Destroy(TextManager.gameObject);
+            Destroy(HUD.gameObject);
+            Destroy(UI.gameObject);
             return;
         }
         
         
         instance = this;
         SceneManager.sceneLoaded += Load;
-        DontDestroyOnLoad(gameObject);
+        SceneManager.sceneLoaded += OnSceneLoad;
+        //DontDestroyOnLoad(gameObject);
     }
 
     //zasoby 
@@ -31,6 +34,9 @@ public class GameManager : MonoBehaviour
     public player player;
     public weapon weapon;
     public textManager TextManager;
+    public RectTransform hitpointBar;
+    public GameObject HUD;
+    public GameObject UI;
 
 
     public int gold;
@@ -89,6 +95,12 @@ public class GameManager : MonoBehaviour
     public void OnLevelUp()
     {
         player.OnLevelUp();
+        OnHitPointChange();
+        6:59
+    } 
+    public void OnSceneLoad(Scene s, LoadSceneMode mode)
+    {
+        player.transform.position = GameObject.Find("SpawnPoint").transform.position;
     }
     public void Save()
     {
@@ -103,6 +115,7 @@ public class GameManager : MonoBehaviour
     }
     public void Load(Scene s, LoadSceneMode mode)
     {
+        SceneManager.sceneLoaded -= Load;
         if (!PlayerPrefs.HasKey("Save"))
             return;
 
@@ -115,6 +128,12 @@ public class GameManager : MonoBehaviour
         weapon.SetWeapon(int.Parse(data[3]));
 
 
-        player.transform.position = GameObject.Find("SpawnPoint").transform.position;
+        
+    }
+    public void OnHitPointChange()
+    {
+        float ratio = (float)player.hitpoints / (float)player.maxHitpoints;
+        hitpointBar.localScale = new Vector3(1, ratio, 1);
+
     }
 }
