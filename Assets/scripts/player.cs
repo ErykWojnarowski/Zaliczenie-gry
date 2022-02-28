@@ -5,7 +5,7 @@ using UnityEngine;
 public class player : mover 
 {
     private SpriteRenderer spriteRenderer;
-
+    private bool isAlive = true;
     protected override void Start()
     {
         base.Start();
@@ -15,15 +15,24 @@ public class player : mover
     }
     protected override void ReceiveDamage(damage dmg)
     {
+        if (!isAlive)
+            return;
         base.ReceiveDamage(dmg);
         GameManager.instance.OnHitPointChange();
+    }
+    protected override void Death()
+    {
+        isAlive = false;
+        GameManager.instance.DeathMenuAnim.SetTrigger("Show");
+        
     }
 
     private void FixedUpdate()
     {
         float x = Input.GetAxisRaw("Horizontal");
         float y = Input.GetAxisRaw("Vertical");
-        UpdateMotor(new Vector3(x, y, 0));
+        if(isAlive)
+            UpdateMotor(new Vector3(x, y, 0));
     }
     public void OnLevelUp()
     {
@@ -48,5 +57,5 @@ public class player : mover
         GameManager.instance.ShowText("+" + healingAmount.ToString() + " hp", 25, Color.green, transform.position, Vector3.up * 30, 1.0f);
         GameManager.instance.OnHitPointChange();
     }
-    
+   
 }

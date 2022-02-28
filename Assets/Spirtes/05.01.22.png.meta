@@ -1349,6 +1349,21 @@ TextureImporter:
   - first:
       213: 6257451317153832656
     second: Potion_health_empty
+  - first:
+      213: -267607523921591337
+    second: fountain_marble
+  - first:
+      213: 2465601008409128655
+    second: fountain_ice
+  - first:
+      213: -6311273313718511708
+    second: fountain_mesh
+  - first:
+      213: -2401336732327336550
+    second: fountain_cave
+  - first:
+      213: -3941335283089291596
+    second: fountain_finall
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -10854,7 +10869,7 @@ TextureImporter:
         width: 8
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -10862,6 +10877,111 @@ TextureImporter:
       bones: []
       spriteID: 0de114ec1dee6d650800000000000000
       internalID: 6257451317153832656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountain_marble
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 369
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d38e65ff54494cf0800000000000000
+      internalID: -267607523921591337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountain_ice
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 368
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce2218cd03973220800000000000000
+      internalID: 2465601008409128655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountain_mesh
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 385
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d7671c5ad968a0800000000000000
+      internalID: -6311273313718511708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountain_cave
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 385
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95288bf6fcbcaed0800000000000000
+      internalID: -2401336732327336550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountain_finall
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 385
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6cfbe21709d49c0800000000000000
+      internalID: -3941335283089291596
       vertices: []
       indices: 
       edges: []

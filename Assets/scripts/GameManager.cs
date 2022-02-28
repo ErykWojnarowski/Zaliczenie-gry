@@ -37,7 +37,7 @@ public class GameManager : MonoBehaviour
     public RectTransform hitpointBar;
     public GameObject HUD;
     public GameObject UI;
-
+    public Animator DeathMenuAnim;
 
     public int gold;
     public int experience;
@@ -96,12 +96,13 @@ public class GameManager : MonoBehaviour
     {
         player.OnLevelUp();
         OnHitPointChange();
-        6:59
+       
     } 
     public void OnSceneLoad(Scene s, LoadSceneMode mode)
     {
         player.transform.position = GameObject.Find("SpawnPoint").transform.position;
     }
+    
     public void Save()
     {
         string s = "";
@@ -136,4 +137,7 @@ public class GameManager : MonoBehaviour
         hitpointBar.localScale = new Vector3(1, ratio, 1);
 
     }
+    
+    
+ 
 }

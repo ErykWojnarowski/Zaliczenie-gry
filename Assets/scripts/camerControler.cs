@@ -42,4 +42,9 @@ public class camerControler : MonoBehaviour
         
         transform.position += new Vector3(delta.x, delta.y, 0);
     }
+    public void Exit()
+    {
+        Application.Quit();
+        Debug.Log("exit");
+    }
 }
