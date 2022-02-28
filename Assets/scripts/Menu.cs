@@ -7,7 +7,7 @@ public class Menu : MonoBehaviour
 {
     public Text levelText, hitpointText, goldText, upgradeText, xpText;
 
-    private int currentCharacter = 0;   
+     
     public Image weaponSprite;
     public RectTransform xpBar;
 
