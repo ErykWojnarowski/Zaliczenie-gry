@@ -20,7 +20,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
@@ -41,10 +40,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -91,43 +88,43 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1488}
     - Class: 114
-      Script: {instanceID: 2336}
+      Script: {instanceID: 2294}
     - Class: 114
-      Script: {instanceID: 2354}
+      Script: {instanceID: 2338}
     - Class: 114
-      Script: {instanceID: 2448}
+      Script: {instanceID: 2356}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2450}
     - Class: 114
-      Script: {instanceID: 2638}
+      Script: {instanceID: 2600}
     - Class: 114
-      Script: {instanceID: 2642}
+      Script: {instanceID: 2640}
     - Class: 114
-      Script: {instanceID: 2772}
+      Script: {instanceID: 2644}
     - Class: 114
-      Script: {instanceID: 2984}
+      Script: {instanceID: 2774}
     - Class: 114
-      Script: {instanceID: 3086}
+      Script: {instanceID: 2986}
     - Class: 114
-      Script: {instanceID: 3226}
+      Script: {instanceID: 3088}
     - Class: 114
-      Script: {instanceID: 3554}
+      Script: {instanceID: 3228}
     - Class: 114
-      Script: {instanceID: 3704}
+      Script: {instanceID: 3556}
     - Class: 114
-      Script: {instanceID: 4066}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 4336}
+      Script: {instanceID: 4068}
     - Class: 114
-      Script: {instanceID: 4828}
+      Script: {instanceID: 4338}
     - Class: 114
-      Script: {instanceID: 4832}
+      Script: {instanceID: 4830}
     - Class: 114
-      Script: {instanceID: 5022}
+      Script: {instanceID: 4834}
     - Class: 114
-      Script: {instanceID: 16960}
+      Script: {instanceID: 5024}
     - Class: 114
-      Script: {instanceID: 25554}
+      Script: {instanceID: 19854}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -178,21 +175,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 604}
     - Class: 114
-      Script: {instanceID: 2336}
+      Script: {instanceID: 2338}
     - Class: 114
-      Script: {instanceID: 2580}
+      Script: {instanceID: 2582}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2600}
     - Class: 114
-      Script: {instanceID: 2984}
+      Script: {instanceID: 2986}
     - Class: 114
-      Script: {instanceID: 3554}
+      Script: {instanceID: 3556}
     - Class: 114
-      Script: {instanceID: 3704}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 4064}
+      Script: {instanceID: 4066}
     - Class: 114
-      Script: {instanceID: 4832}
+      Script: {instanceID: 4834}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -233,19 +230,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 604}
     - Class: 114
-      Script: {instanceID: 2336}
+      Script: {instanceID: 2338}
     - Class: 114
-      Script: {instanceID: 2580}
+      Script: {instanceID: 2582}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2600}
     - Class: 114
-      Script: {instanceID: 2984}
+      Script: {instanceID: 2986}
     - Class: 114
-      Script: {instanceID: 3554}
+      Script: {instanceID: 3556}
     - Class: 114
-      Script: {instanceID: 3704}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 4832}
+      Script: {instanceID: 4834}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -286,17 +283,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 604}
     - Class: 114
-      Script: {instanceID: 2336}
+      Script: {instanceID: 2338}
     - Class: 114
-      Script: {instanceID: 2580}
+      Script: {instanceID: 2582}
     - Class: 114
-      Script: {instanceID: 3554}
+      Script: {instanceID: 3556}
     - Class: 114
-      Script: {instanceID: 3704}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 4064}
+      Script: {instanceID: 4066}
     - Class: 114
-      Script: {instanceID: 4832}
+      Script: {instanceID: 4834}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -337,15 +334,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 604}
     - Class: 114
-      Script: {instanceID: 2580}
+      Script: {instanceID: 2582}
     - Class: 114
-      Script: {instanceID: 3554}
+      Script: {instanceID: 3556}
     - Class: 114
-      Script: {instanceID: 3704}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 4064}
+      Script: {instanceID: 4066}
     - Class: 114
-      Script: {instanceID: 4832}
+      Script: {instanceID: 4834}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -386,13 +383,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 604}
     - Class: 114
-      Script: {instanceID: 2336}
+      Script: {instanceID: 2338}
     - Class: 114
-      Script: {instanceID: 2580}
+      Script: {instanceID: 2582}
     - Class: 114
-      Script: {instanceID: 3554}
+      Script: {instanceID: 3556}
     - Class: 114
-      Script: {instanceID: 4832}
+      Script: {instanceID: 4834}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -544,6 +541,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: IKManager2D
+  - hash:
+      serializedVersion: 2
+      Hash: c8c5e65e9fb858572516474d6e2102bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Escape
   - hash:
       serializedVersion: 2
       Hash: 97fd7440e1c1ff1e8ea6178cc795a415
@@ -1024,12 +1027,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: FabrikSolver2D
-  - hash:
-      serializedVersion: 2
-      Hash: c8c5e65e9fb858572516474d6e2102bc
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Escape
   platform: 5
   scenePathNames:
   - Assets/Scenes/Main.unity
@@ -1038,4 +1035,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/level-3.unity
   - Assets/Scenes/level-4.unity
   - Assets/Scenes/level-5.unity
-  playerPath: D:/silniki gier/Game/Build/Game.exe
+  playerPath: D:/silniki gier/Game/Finall_build/Game.exe
