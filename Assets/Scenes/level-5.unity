@@ -5547,6 +5547,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1929865943}
     m_Modifications:
+    - target: {fileID: 4082516778896533649, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_Size.x
+      value: 0.14110608
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516778896533649, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_Size.y
+      value: 0.20117417
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516778896533649, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.012372801
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516778896533649, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.051436365
+      objectReference: {fileID: 0}
     - target: {fileID: 4082516778896533650, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
       propertyPath: xp
       value: 100
@@ -5562,6 +5578,18 @@ PrefabInstance:
     - target: {fileID: 4082516778896533651, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
       propertyPath: m_RootOrder
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516778896533651, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516778896533651, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516778896533651, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4082516778896533651, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5606,6 +5634,22 @@ PrefabInstance:
     - target: {fileID: 4082516778896533654, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
       propertyPath: m_Name
       value: enemy_finall_boss
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516779466758302, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_Size.x
+      value: 0.1549359
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516779466758302, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_Size.y
+      value: 0.20997618
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516779466758302, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0114145465
+      objectReference: {fileID: 0}
+    - target: {fileID: 4082516779466758302, guid: 06843e9190a50be45925679deaaed0f5, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.051721714
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06843e9190a50be45925679deaaed0f5, type: 3}

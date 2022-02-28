@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - DontDestroy
+    - Escape
     - GameManager
     - Healing
     - Menu
@@ -40,8 +41,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -94,8 +97,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2448}
     - Class: 114
-      Script: {instanceID: 2580}
-    - Class: 114
       Script: {instanceID: 2598}
     - Class: 114
       Script: {instanceID: 2638}
@@ -124,7 +125,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5022}
     - Class: 114
-      Script: {instanceID: 23818}
+      Script: {instanceID: 16960}
+    - Class: 114
+      Script: {instanceID: 25554}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -609,7 +612,7 @@ ScriptsOnlyBuild:
     className: DontDestroy
   - hash:
       serializedVersion: 2
-      Hash: e76bbf5d1dfe2d6f5fb08f68bc55e072
+      Hash: b90e3ad9aaeae974e3254aea7c71a916
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Menu
@@ -1021,6 +1024,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: FabrikSolver2D
+  - hash:
+      serializedVersion: 2
+      Hash: c8c5e65e9fb858572516474d6e2102bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Escape
   platform: 5
   scenePathNames:
   - Assets/Scenes/Main.unity
