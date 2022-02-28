@@ -102,6 +102,11 @@ public class GameManager : MonoBehaviour
     {
         player.transform.position = GameObject.Find("SpawnPoint").transform.position;
     }
+    public void Respawn()
+    {
+        DeathMenuAnim.SetTrigger("Hide");
+        SceneManager.LoadScene("Main");
+    }
     
     public void Save()
     {

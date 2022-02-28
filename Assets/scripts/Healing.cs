@@ -6,7 +6,7 @@ public class Healing : collidable
 {
     public int healingAmount = 5;
 
-    private float healCooldown = 5.0f;
+    public float healCooldown = 5.0f;
     private float lastHeal;
 
     protected override void OnCollide(Collider2D coll)

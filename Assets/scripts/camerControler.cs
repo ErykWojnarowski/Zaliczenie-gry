@@ -44,7 +44,6 @@ public class camerControler : MonoBehaviour
     }
     public void Exit()
     {
-        Application.Quit();
-        Debug.Log("exit");
+        Application.Quit();       
     }
 }

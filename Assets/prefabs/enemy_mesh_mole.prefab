@@ -13,7 +13,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7544113725151233768, guid: c2ec69d1a2ac79744a259e8fdb071821, type: 3}
       propertyPath: m_Name
-      value: enemy_mesh_mole Variant Variant
+      value: enemy_mesh_mole
       objectReference: {fileID: 0}
     - target: {fileID: 7544113725151233773, guid: c2ec69d1a2ac79744a259e8fdb071821, type: 3}
       propertyPath: m_RootOrder
@@ -58,6 +58,10 @@ PrefabInstance:
     - target: {fileID: 7544113725151233773, guid: c2ec69d1a2ac79744a259e8fdb071821, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544113725151233774, guid: c2ec69d1a2ac79744a259e8fdb071821, type: 3}
+      propertyPath: m_FlipX
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7544113725151233774, guid: c2ec69d1a2ac79744a259e8fdb071821, type: 3}
       propertyPath: m_Sprite

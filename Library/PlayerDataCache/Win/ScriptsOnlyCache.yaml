@@ -20,6 +20,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
+    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
@@ -124,7 +125,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5024}
     - Class: 114
-      Script: {instanceID: 19854}
+      Script: {instanceID: 17036}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -387,7 +388,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2582}
     - Class: 114
+      Script: {instanceID: 3228}
+    - Class: 114
       Script: {instanceID: 3556}
+    - Class: 114
+      Script: {instanceID: 4066}
+    - Class: 114
+      Script: {instanceID: 4830}
     - Class: 114
       Script: {instanceID: 4834}
     - Class: 115
@@ -867,7 +874,7 @@ ScriptsOnlyBuild:
     className: SpriteShapeGeometryCache
   - hash:
       serializedVersion: 2
-      Hash: db71eac78a996c5b9113eaa938aabc87
+      Hash: 499c3c023ff948aa814ec94fbff00f3b
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Healing
@@ -1035,4 +1042,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/level-3.unity
   - Assets/Scenes/level-4.unity
   - Assets/Scenes/level-5.unity
-  playerPath: D:/silniki gier/Game/Finall_build/Game.exe
+  playerPath: D:/silniki gier/Game/Test/Game.exe
